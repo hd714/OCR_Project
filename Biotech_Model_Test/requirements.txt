@@ -1,0 +1,51 @@
+# Core Dependencies
+numpy>=1.23.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# OCR Engines
+pytesseract>=0.3.10
+easyocr>=1.7.1
+paddlepaddle>=2.6.1
+paddleocr>=3.3.0
+
+# Cloud OCR Services
+azure-ai-formrecognizer>=3.3.0
+azure-core>=1.29.0
+
+# Vision Models & Transformers
+transformers>=4.36.0
+torch>=2.0.1
+torchvision>=0.15.2
+bitsandbytes>=0.41.0  # For 8-bit quantization
+accelerate>=0.25.0  # For model loading optimization
+sentencepiece>=0.1.99  # For some tokenizers
+
+# OpenAI API (for GPT-4V)
+openai>=1.0.0
+
+# PDF processing
+pdf2image>=1.17.0
+PyPDF2>=3.0.1
+pdfplumber>=0.10.0
+
+# Visualization and CLI
+rich>=13.6.0
+matplotlib>=3.8.0
+
+# Additional utilities
+python-Levenshtein>=0.23.0
+scikit-image>=0.22.0
+beautifulsoup4>=4.12.3
+lxml>=4.9.3
+
+# Progress bars and logging
+tqdm>=4.66.1
+colorama>=0.4.6
+
+# Data handling
+pandas>=2.1.0
+openpyxl>=3.1.2
+
+# Vector Database (for future integration)
+pymilvus>=2.3.0

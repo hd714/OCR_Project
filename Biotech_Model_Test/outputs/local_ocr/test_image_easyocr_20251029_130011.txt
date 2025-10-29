@@ -1,0 +1,1 @@
+OCR PIPELINE TEST IMAGE This is 0 test document Testing numbers: 123456785 UPPERCASE AND lowercase t Special chars: @ # $ % & * Email: test@example.com Date: January 27, 2025

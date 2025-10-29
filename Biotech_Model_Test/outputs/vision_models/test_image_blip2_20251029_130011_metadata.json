@@ -1,0 +1,33 @@
+{
+  "text": "Question: What does this document say? Answer: ocr pipeline test image this is a test document ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test image ocr pipeline test ima...",
+  "full_text_length": 10069,
+  "processing_time": 11125.93643880001,
+  "word_count": 1681,
+  "char_count": 10069,
+  "confidence": null,
+  "metadata": {
+    "engine": "BLIP-2",
+    "model": "Salesforce/blip2-opt-2.7b",
+    "gpu_used": false,
+    "8bit_quantization": false,
+    "image_size": [
+      1200,
+      800
+    ],
+    "num_prompts_used": 4,
+    "output_length": 10069,
+    "all_extractions_lengths": [
+      101,
+      4950,
+      52,
+      4960
+    ],
+    "image_caption": "ocr pipeline test image this is a test document testing numbers and upper case and lower case"
+  },
+  "errors": [],
+  "model_name": "BLIP-2",
+  "timestamp": "2025-10-29T13:00:00.455528",
+  "memory_usage_mb": 40.27426242828369,
+  "file_hash": "bced087c96b5cf15aca04f9dac9d1f9b",
+  "chars_per_second": 0.9050024737590532
+}

@@ -1,0 +1,30 @@
+{
+  "text": "OCR PIPELINE TEST IMAGE This is 0 test document Testing numbers: 123456785 UPPERCASE AND lowercase t Special chars: @ # $ % & * Email: test@example.com Date: January 27, 2025",
+  "full_text_length": 174,
+  "processing_time": 24.810761200002162,
+  "word_count": 30,
+  "char_count": 174,
+  "confidence": 0.8291034051243511,
+  "metadata": {
+    "engine": "EasyOCR",
+    "languages": [
+      "en"
+    ],
+    "gpu_used": true,
+    "image_shape": [
+      800,
+      1200,
+      3
+    ],
+    "num_detections": 8,
+    "avg_confidence": 0.8291034051243511,
+    "min_confidence": 0.6415675142183628,
+    "max_confidence": 0.9997528944099408
+  },
+  "errors": [],
+  "model_name": "EasyOCR",
+  "timestamp": "2025-10-29T09:53:44.156286",
+  "memory_usage_mb": 155.91356372833252,
+  "file_hash": "bced087c96b5cf15aca04f9dac9d1f9b",
+  "chars_per_second": 7.013085918540252
+}

@@ -1,0 +1,17 @@
+{
+  "text": "",
+  "full_text_length": 0,
+  "processing_time": 0.0015075999835971743,
+  "word_count": 0,
+  "char_count": 0,
+  "confidence": null,
+  "metadata": {},
+  "errors": [
+    "Error processing C:\\Users\\henry\\Downloads\\OCR_Project\\wen_documents\\presentations\\pharma_day_2025.pdf: cannot identify image file 'C:\\\\Users\\\\henry\\\\Downloads\\\\OCR_Project\\\\wen_documents\\\\presentations\\\\pharma_day_2025.pdf'\nTraceback (most recent call last):\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\base_ocr.py\", line 139, in process\n    text, confidence, metadata = self._extract_text(file_path, **kwargs)\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\src\\local_ocr\\ocr_tesseract.py\", line 157, in _extract_text\n    pil_image = Image.open(file_path)\n                ^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\.venv\\Lib\\site-packages\\PIL\\Image.py\", line 3560, in open\n    raise UnidentifiedImageError(msg)\nPIL.UnidentifiedImageError: cannot identify image file 'C:\\\\Users\\\\henry\\\\Downloads\\\\OCR_Project\\\\wen_documents\\\\presentations\\\\pharma_day_2025.pdf'\n"
+  ],
+  "model_name": "Tesseract",
+  "timestamp": "2025-10-29T15:13:58.973415",
+  "memory_usage_mb": 0.0,
+  "file_hash": "589eb035b757842bfba15f5d416ae300",
+  "chars_per_second": 0.0
+}

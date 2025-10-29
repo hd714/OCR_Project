@@ -1,0 +1,17 @@
+{
+  "text": "",
+  "full_text_length": 0,
+  "processing_time": 1.192554699984612,
+  "word_count": 0,
+  "char_count": 0,
+  "confidence": null,
+  "metadata": {},
+  "errors": [
+    "Error processing test_image.png: key must be a string.\nTraceback (most recent call last):\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\base_ocr.py\", line 139, in process\n    text, confidence, metadata = self._extract_text(file_path, **kwargs)\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\src\\cloud_ocr\\ocr_azure.py\", line 87, in _extract_text\n    self._initialize_client()\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\src\\cloud_ocr\\ocr_azure.py\", line 52, in _initialize_client\n    credential=AzureKeyCredential(self.api_key)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\.venv\\Lib\\site-packages\\azure\\core\\credentials.py\", line 159, in __init__\n    raise TypeError(\"key must be a string.\")\nTypeError: key must be a string.\n"
+  ],
+  "model_name": "Azure-OCR",
+  "timestamp": "2025-10-29T01:46:34.310086",
+  "memory_usage_mb": 0.0,
+  "file_hash": "bced087c96b5cf15aca04f9dac9d1f9b",
+  "chars_per_second": 0.0
+}

@@ -1,0 +1,29 @@
+{
+  "text": "Figure 1. Study Design\n7\" METHODS gure 1. Study Desig\nJ \u2122\n@) | NTRO D UCTI O N + This multicohort phase I/II trial, evaluated the safety and efficacy of Diseaserepeciiciechortst 2-stage expansion Dose optimization\nPe oie een  vaneonn od + Dysregulation of Enhancer of Zeste Homolog 2 (EZH2) activity cially affects cancer progression and drug resistance, especialy monotherapy in patients with ARID TAmut OCC (Cohort M2) of EC (Cohort M3)\nin tumors with AT-Rich Interaction Domain 1(ARID1A) mutations...",
+  "full_text_length": 17236,
+  "processing_time": 25.81622169999173,
+  "word_count": 3162,
+  "char_count": 17236,
+  "confidence": 0.7967901650387336,
+  "metadata": {
+    "engine": "Tesseract",
+    "lang": "eng",
+    "config": "--psm 6",
+    "total_words": 3162,
+    "avg_confidence": 79.67901650387336,
+    "min_confidence": 1,
+    "max_confidence": 97,
+    "image_shape": [
+      3500,
+      6000,
+      3
+    ],
+    "preprocessing_applied": false
+  },
+  "errors": [],
+  "model_name": "Tesseract",
+  "timestamp": "2025-10-29T15:13:32.117473",
+  "memory_usage_mb": 63.26643371582031,
+  "file_hash": "54b0e14f397636c75471bcfae8055a5f",
+  "chars_per_second": 667.6422367416191
+}

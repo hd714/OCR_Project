@@ -1,0 +1,29 @@
+{
+  "text": "Abstract\nAxicabtagene ciloleucel (axi-cel) is an autologous chimeric\nantigen receptor (CAR) T-cell therapy approved for adults with | Progression-Free Survival Overall Survival\nrelapsed/refractory (R/R) large B-cell lymphoma (LBCL) after 21 prior Adult patients with R/R LBCL treated with axi-cel with 100 i Outpatient 100-+sxy rn C 4 1007\u2014wpam OO sc 4\nline of therapy\"? 21 prior line of therapy between July 2021-November 2023 0 0 i ome\" eieels\n; ; re ; Beane _\u2014\u2014 83% 83% Inpatient *\nIn the pivotal ...",
+  "full_text_length": 12494,
+  "processing_time": 25.35393500002101,
+  "word_count": 2126,
+  "char_count": 12494,
+  "confidence": 0.8355357142857143,
+  "metadata": {
+    "engine": "Tesseract",
+    "lang": "eng",
+    "config": "--psm 6",
+    "total_words": 2126,
+    "avg_confidence": 83.55357142857143,
+    "min_confidence": 1,
+    "max_confidence": 97,
+    "image_shape": [
+      3500,
+      6000,
+      3
+    ],
+    "preprocessing_applied": false
+  },
+  "errors": [],
+  "model_name": "Tesseract",
+  "timestamp": "2025-10-29T14:50:25.075379",
+  "memory_usage_mb": 61.83971881866455,
+  "file_hash": "accee7faf11226aca5ec083b7c827520",
+  "chars_per_second": 492.78346733907955
+}

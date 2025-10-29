@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-10-29T10:22:14.017764",
+  "embedding_dimension": 384,
+  "model": "all-MiniLM-L6-v2",
+  "text_sample": "CLINICAL TRIAL NCT\u20142024\u2014-001\n\nDrug: HUMIRA (adalimumab)\n\nIndication: Rheumatoid Arthritis\n\nPrimary Endpoint: ACR20 Response at Week 24\nResults: 75% achieved ACR20 (p<0.001)\nSecondary: 45% achieved ACRSO\n\nAdverse Events: Mild to Moderate\n",
+  "embedding_sample": [
+    -0.041752662509679794,
+    -0.013709656894207,
+    0.0020820950157940388,
+    -0.001296877395361662,
+    0.025545019656419754,
+    0.020686553791165352,
+    -0.04949990659952164,
+    0.15920549631118774,
+    0.04339597746729851,
+    0.0694858729839325
+  ]
+}
