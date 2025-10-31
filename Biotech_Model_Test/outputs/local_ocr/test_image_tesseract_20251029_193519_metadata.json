@@ -1,0 +1,29 @@
+{
+  "text": "OCR PIPELINE TEST IMAGE\nThis is a test document\nTesting numbers: 12345678\u00a2\nUPPERCASE AND lowercase t\nSpecial chars: @ # $ % & x\nEmail: test@example.com\nDate: January 27, 2025",
+  "full_text_length": 174,
+  "processing_time": 1.3908986000169534,
+  "word_count": 30,
+  "char_count": 174,
+  "confidence": 0.9083333333333333,
+  "metadata": {
+    "engine": "Tesseract",
+    "lang": "eng",
+    "config": "--psm 6",
+    "total_words": 30,
+    "avg_confidence": 90.83333333333333,
+    "min_confidence": 44,
+    "max_confidence": 96,
+    "image_shape": [
+      800,
+      1200,
+      3
+    ],
+    "preprocessing_applied": false
+  },
+  "errors": [],
+  "model_name": "Tesseract",
+  "timestamp": "2025-10-29T19:35:19.506377",
+  "memory_usage_mb": 2.9029293060302734,
+  "file_hash": "bced087c96b5cf15aca04f9dac9d1f9b",
+  "chars_per_second": 125.09898277119493
+}

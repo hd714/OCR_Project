@@ -1,0 +1,907 @@
+EasyOCR Extraction Results
+Document: 3102_phase2_dose_optimization
+Timestamp: 20251031_131546
+==================================================
+
+#3102
+METHODS
+Figure
+Study Design
+INTRODUCTION
+This multicohort phase IIII trial, evaluated the safety and efficacy
+Disease-specific cohorts*
+2-stage expansion
+Dose optimization
+Linda R Duska
+LRDSD@uvahealth org
+tulmimetostat
+The two
+cohorts
+presented here evaluated tulmimetostat as
+(except cohort M4)
+(M2 and M3 cohort)
+Dysregulation
+Enhancer
+Zeste Homolog .
+(EZH2) activity critically
+affects
+cancer
+progression and
+drug
+esistance
+especially
+monotherapy in patients with
+RID Amut OCCC
+Cohort M2) or EC (Cohort M3)
+tumors with AT-Rich Interaction Domain 1(ARIDIA) mutations (ARID Amut)
+M2
+OCCC
+ovarian clear cell carcinomal
+Stage
+Stage
+Stage
+Stage 2b
+The patients received one
+the following three doses
+(Figure 1):
+n-1O
+plus n=19
+Ovarian clear cel
+carcinoma
+(OCCC) displays poorer survival rates and worse outcomes compared
+other epithelial ovarian
+endometria
+200 ma: n-1O
+200 mg: n=10
+350
+continuous once daily (OD) dose
+dose
+expansion stage
+M3
+EC:
+carcinoma
+cohort except
+per cohort
+Close RPZD
+Dose
+Phase II dose optimization
+carcinoma subtypes__
+Over 50%
+OCCCs have ARIDIA mutations; leading to ARIDIA protein loss and shorter progression-free
+1
+M4
+M7 (n=20)
+cohort and open
+per cohort
+optimization
+cohort
+survival and overall survival
+(OS)_
+Current platinum-based chemotherapy has limited benefits for these patients'
+incorporatinq
+Simon's
+2-Stage =
+desiqn
+Other APIDTA
+solid tumor
+dose optimization
+300 mg: n=1O
+expansion in
+300 mg: n=1
+To evaluate
+an optimal dose
+tulmimetostat monotherapy; the phase
+Z1/10 ORR
+M2IM3 cohorts
+cohort
+M?IM?
+cohorts
+cohort
+Increase
+EZHZ expression is associated with decreased OS and disease-free
+survival in Endometria
+Cancer
+'EC):
+About
+Single-stage enrollment
+update with EZHZIEZH1 inhibitor
+36-40% of ECs have ARIDIA mutations
+which are
+associated with
+worse
+prognosis
+patients with EC6
+study design was updated
+assess two additional doses
+300 mg and
+Ma
+Lymphoma
+n=20 PTCLand
+BCLt
+200 mg continuous OD dose
+Stade 2b initiates once either Of the Stade 2a
+Cancers bearing ARIDIA mutations display increased sensitivity
+EZH2 inhibition
+estind
+potential synthetic lethality
+MS
+Mleso
+pleural
+peritoneal mesothelioma
+criteria
+Dose optimization was conducted in two stages, Stage 2a and
+2b.
+predefined protocol
+are met
+tulmimetostat (DZR123/CPI-0209)
+approach
+target ARID Amut OCCC and ECs'
+each cohort; Stage Za comprises 20 patients_
+randomized
+between
+M6
+mCpPC: metastatic
+Straton-resistan
+22/10 ORR
+dose cohort
+Tulmimetostat (DZR123/CPI-0209) ,
+next-generation
+oral, dual EZHZIEZHI inhibitor currently
+unde
+investigation, elicits more
+200 mg and 300 mg; Stage 2b enrolled up to 20 more patients
+each cohort if
+prostr
+cancem
+1/10 ORR
+specific cohort
+Foocemec
+potent anti-tumor activity
+versus
+first-generation EZH2 inhibitors
+preclinica
+studies
+due
+slower off rate and increased on-target
+predefined protocol conditions were
+met in Stage 2a
+M7
+RID
+(supported by totality of data)
+Idtype
+residence time8,9
+No response
+300 mg cohort and
+in
+patients with ARIDIA-mutated
+Key eligibility criteria included adult patients with
+isease who had progressed
+M8
+Enzalutamide
+combination in
+22/10
+ORR in 200 mg cohort
+patients With MCRPC
+This phase
+study aims to evaluate the anti-tumor activity
+and safetv
+tulmimetostat in
+advanced solid tumors and lymphomas__
+on applicable prior lines of treatment and met other tumor-specific
+inclusion
+(supported by totality of data)
+We report here the updated efficacy and safety
+tulmimetostat
+ARID Amut OCCC and EC patients from dose expansion and
+criteria as per protocol, and as listed on ClinicalTrials:gov '
+"Patients in
+cohorts hav
+proqressive disease
+licabb
+prio
+lines of therapv;
+THistoloqi
+cvtoloqicall
+proqressive
+Including GCB
+sStad
+enrollm
+will be initiated if criterion
+Staqe 2a are
+ovarian clear cell carcinoma or
+optimization part of the trial
+Primary endpoint was objective
+esponse rate (ORR) and
+secondarv
+endpoint
+met as
+lows: Criteria 1 is met (22 responses
+~dose cohort)
+r Criteria
+met (21 respor
+~dose cohort)
+Stade
+ent may be initiated based on totality of safety, efficacy,
+Id exposure-response data of that
+cohort:
+ Criteria
+respom
+in 300
+cohort
+22/10
+cohort)
+opened
+level based
+totalitv
+safety, efficacy, and exposure-response data
+was safety
+DLBCL
+~diffuse large B-cell lymphoma
+GCB, germinal center B-cell; ORR , objective response
+PTCL peripheral T-cell Ivmphoma:
+recommended Phase |
+endometrial carcinoma
+RESULTS
+Figure
+Best percentage change from baseline in target lesions across all dose levels (per RECIST 1.1)
+Table
+Patients experiencing at least one TEAE possibly related (TRAE) to tulmimetostat
+OCCC
+EC
+As of March
+2025
+enrollment into the tulmimetostat 200 mg
+300 mg, and 350 mg dose arms
+included 20/10, 21/21 ,
+M2
+OCCC)
+M3 (EC)
+Events (n[%])
+200 mg
+300 mg
+350 mg
+200 mg
+300 mg
+350 mg
+Linda R Duska,
+Kalyan Banda
+Ana Oaknin,
+Vincent Ribrag;-
+and 14/11 patients,
+OCCC and EC cohorts respectively_
+Most
+patients
+(58%)
+OCCC and
+(62% )
+EC cohorts received
+(N=20)
+(N=21)
+(N=14)
+(NE1O1
+(N=21)
+(N=11)
+23 prior lines
+therapy (Table
+TRAE
+'90.0)
+(100)
+14 (100)
+(80.0)
+(100)
+(100
+Antonio Gonzalez Martin,
+Nehal
+akhani;
+Jung-Yun Lee,
+In EC, majority of patients (64-81%) enrolled had an ECOG performance status of
+Notably,
+numerically higher
+Grade 23
+(45.0)
+(42.9
+(57.1)
+(10.0)
+(57.1)
+(45.5
+number
+patients
+200 and 300 mg dose
+arms
+had ECOG status
+compared with the 350 mg arm (Table 1)
+1
+Serious TRAE
+3 (15.0)
+(9.5)
+(21.4)
+(23.8)
+(27.3)
+Alok Tewari;
+Susana N Banerjee,
+Maria-Pilar Barretina-Ginesta;10
+TRAE leading
+dose
+modification
+(45.0
+66 7
+(78.6
+(60.0
+(762
+(90.9_
+Valentina Boni;
+Mehdi Brahmi,12 Lauriane Eberst,13
+Table
+Baseline and disease characteristics
+TRAE resulting
+dose reductiona
+(30.0)
+(23._
+(20.0)
+(45.5
+OCCc
+(N=55)
+FC (NE421
+TRAE leading
+dose interruption
+8 (40.0
+(61.9)
+10 (71
+5 (50.0
+(52.4
+(54.5
+Jae Hoon Kim;
+14
+Nicoletta Colombo,15 Domenica Lorusso,16,17
+200 mg
+300 mg
+350 mg
+200 mg
+300 mg
+350 mg
+TRAE leading
+treatment discontinuation
+(10.0
+2 (143
+(10.0)
+1 (9 1)
+(N=20)
+(N=21)
+(N=14)
+(N=10)
+(N=21)
+(N=11)
+Data
+March
+2025.EC;
+Idomet
+carcinoma: OCCC, ovarian clea
+carcinoma
+Nicola Faulhaber;18 Lennart Kann;18 Anjali Thakur;18
+TEAE treatment-emeraent adverse event: TRAE
+TEAE possiblv related to tulmimetostat
+Baseline characteristics
+Charles Drescher19
+Aqe
+(38-69
+(38-76)
+(39-67)
+(49-86)
+(45-77)
+67 (57-82)
+L
+Figure
+Frequently reported TEAEs (>15% either indication) possibly related (TRAEs) to tulmimetostat
+median (range
+since initial
+M2 (OCCC)
+M3 (EC)
+'University of Virginia Health System, Charlottesville
+VA
+USA; 2Seattle Cancer Care
+diaqnosis
+2.2 (0.4-7.6)
+2.2(0.8-6.6)
+'(0.6-8.
+4.1 (1.0-13.2)
+3.2 (0.6-11.2)
+3.2 (0.6-7.0)
+median (rande
+Alliance
+Seattle ,
+WA
+USA;
+Medical Oncology Service, Vall d'Hebron Institute of
+Disea
+Fatigue
+characteristic
+Oncology; Vall d'Hebron Barcelona Hospital Campus, Barcelona
+Spain; 4Gustave
+Lines
+prior cancer
+8
+Roussy; DITEP (Institut de Cancerologie Gustave-Roussy) , Villejuif; France; SUniversity
+therapy n(%)
+Thrombocvtopenia
+(10.0)
+4 (28
+(10.0
+(23._
+(18.2)
+Clinic of Navarra
+Madrid, Spain; 6START Midwest, Grand Rapids, MI, USA; 7Yonsei
+(30.0)
+(33
+2 (14
+(30.0
+(9.5_
+(27.3
+8
+Anaemia
+Cancer Center and Severance Hospital, Yonsei University College of Medicine , Seoul,
+(25.
+(7.
+(40.0
+(38
+(18.2)
+(35.0)
+4 (19.0)
+7 (50.0)
+(20.0
+; (28.6)
+(36.
+3
+South Korea; 8Dana Farber Cancer Institute
+Boston; MA, USA; 9Royal Marsden NHS
+ECOG Performance
+Diarrhoea
+Foundation Trust and Institute of Cancer Research, London
+UK;
+1University Hospital
+Status
+n(%)
+(50.0)
+(52.4)
+6 (42
+(20.0)
+(19.0)
+(36.4)
+Vomiting
+of Girona
+Girona, Spain; IINEXT Oncology Madrid, University Hospital Quironsalud,
+(50.0)
+10 (47.6)
+8 (57
+(80.0)
+(81.0)
+(63
+-100-
+Madrid
+Spain; 12Centre
+eon Berard
+Lyon, France; 13Strasbourg Europe Institut of
+endometriab
+Ioma; ECOG
+oncologv group; OCCC
+ovarian clear cell carcinon
+vears
+Values have been reported
+n(%o) unless otherwise specified
+OCCc Starting dose (mg):
+200 mg
+300 mg
+Starting dose
+(mg):
+200 ma
+300 mg
+350 ma
+Dvsqeusia
+Cancerology; Strasbourg, France; I4Gangnam Severance Hospital, Yonsei University;
+Efficacy
+Data cut-off_
+March
+2025
+omplete respo
+reported in tardet lesion
+EC, endometrial carcinoma; OCCC , ovarian clear cell carch
+ECIS
+esponse evaluatio
+criteria
+~solid tumours
+Seoul, Republic of Korea
+SEuropean Institute of Oncology, IRCCS , Milan; Italy;
+Nausea
+OCCC , the highest confirmed ORR was reporte
+200 mg dose
+(25%)
+and
+the EC cohort; the highest
+confirmed
+16Department of Biomedical Sciences, Humanitas University, Pieve Emanuele , Milan,
+ORR was reported for 350 mg dose (36.4%) (Table
+Figure
+Treatment duration and response assessment in the M2IM3 cohorts
+Alopecia
+Italy; 17Humanitas San Pio
+Milan, Italy; 18MorphoSys GmbH, Planegg ,
+Germany;
+the EC cohort; all responde
+experienced
+deep responses
+with
+mor
+than 50%
+eduction
+target lesions
+For
+the
+19Swedish Cancer Institute ,
+Seattle_
+WA, USA_
+OCCC cohort reductions ranged from 30% to 100% (Figure
+Decreased appetite
+Of the 55 patients with OCCC (M2) , 22 (40%)
+were on treatment for
+more
+than
+months
+Among these
+4/22 (18% 
+remained on treatment at the time of data cutoff. For EC of 42 patients, 13 (31%) were on
+treatment for more
+than
+Headache
+months: Among these, 8/13 (62%) remained
+on treatment (Figure
+KEY FINDINGS & CONCLUSIONS
+Table 2. Best confirmed and unconfirmed response per dose in OCCC and EC patients
+{[
+Neutropenia
+OCCC
+2
+Weiqht decreased
+200 mg
+300 mq
+350 mq
+200 mq
+300 ma
+350 mq
+Antitumor activity in terms of objective responses and disease
+(N=201
+(N=211
+(N=141
+(N=1O)
+(N=21)
+(N=M1)
+Aspartat
+AT increased
+Best confirme
+Tresponse
+stabilization were observed in both OCCC and EC
+CR
+Best confirmed /
+Asthenia
+1 (4.8)
+(9.1)
+Tumor regression was observed for both cohorts (OCCC and EC), with
+unconfirmed response
+Best confirmed
+esponse
+5 (25.0)
+3 (14.3)
+(7.1)
+3 (14.3)
+(36.4)
+Constipation
+tumor
+regression up to 100%
+Best confirmed
+(35 0)
+3 (14.3)
+4 (28
+(10 0
+3 (14.3)
+3 (27.3)
+unconfirme
+response
+Across three dose cohorts
+40% of patients with OCCC and 31% of
+Epistaxis
+Best confirm ed response
+(25.0)
+3 (14.3)
+1 (7 1)
+4 (19.0)
+(36 4)
+patients with EC remained on treatment for more than 5 months
+ORR
+Best confirmed
+(CR
+PR)
+(35.0)
+3 (14.3)
+4 (28.
+(10.0)
+4 (19.0)
+(36.4)
+9
+Abdominal pain
+unconfirmed response
+Safety data of tulmimetostat at 200 mg showed an
+acceptable safety
+In case of confirmed
+(45 0)
+(47.6)
+'(50.0)
+(80 0)
+6 (28 6)
+~
+Alanine
+incre
+sed
+profile in patients with ARIDIAmut OCCC and EC compared to 300 and
+CRIPR
+350 mg doses
+CRIPR
+unconfirm
+(35.0)
+(47.6)
+4 (28
+(70
+6 (28.6)
+(27.3)
+Blood creatinine increased
+These updated findings in heavily pretreated patients with ARIDIAmut
+(25.0)
+(38
+6 (42.9)
+(10.0
+(42.9)
+(27.3
+12
+OCCC
+Discontinuation without response
+Time since first dose (months)
+Cough
+200 ma
+or EC support ongoing investigation of the dual EZHZIEZHI
+assessment
+(5 0
+(10 0
+(9 5)
+1 (9 1)
+Grade 23
+Occc
+Starting
+(mg):
+200 mg
+300
+350 mg
+Starting
+(mg):
+200 mg
+350 mg
+inhibitor tulmimetostat
+-Off: March
+2025.
+RECIST v1.112
+All val
+reported
+n(% )
+complet
+Jonse:
+Ietrial €
+OCCC
+cell ca
+essment
+Comp
+response
+artia
+response
+Stable disease
+roaressiv
+disease
+XDeath
+eatn
+ongoing
+Dizziness
+ORR
+obiective response rate-
+progressive disease;
+response: RECIS
+evaluation criteria
+d tumours
+~stable disease
+ma
+Data cut-off
+March
+2025
+All grade
+endometrial carcinoma: OCCC
+ovarian clean
+inoma
+Lymphocvte count decreased
+Safety
+300 ma
+Crade 23
+Imost all patients experienced at least one treatment-emergent adverse events (TEAE) irrespective of causality
+both
+Safety
+Neutrophil count decreased
+OCCC and EC cohorts
+Most common TEAEs (all grades)
+possiblv
+ated
+tulmimetostat
+(TRAEs) included fatigue
+thrombocvtopenia
+anemia 
+Agnde
+Serious TEAEs were frequent
+OCCC 350 mg 57.1% (8/14) and EC 350 mg 72.7% (8/11)
+diarrhea
+vomiting; dysgeusia,
+nausea
+and alopecia (Figure
+Platelet count
+decreased
+To download
+of this poster; visit the web at:
+350 mg
+https Iltinyurl com/LindaR3102
+Grade 23 for at least one TEAE was common
+OCCC 350 mg 78.6% (11/14) and EC 300 mg 90.5% (19/21) , while
+About 15%
+OCCC and 19%
+EC had
+serious TRAE with 47%
+OCCC and 43%
+EC having
+least one
+Grade
+Scan to
+grade 23 serious TEAEs were common
+OCCC 350 mg 57.1% (8/14) and EC 350 mg 63.6% (7/11) dose arms
+TRAE of grade 23 (Table 3)
+Pruritus
+350 mg
+obtain the
+Copies of this poster obtained through quick response
+Highest incidence
+TEAEs requiring dose reductions occurred in OCCC 350 mg 64.3% (9/14) and
+EC 300 mg
+Most grade 23 TRAEs were
+hematoloq
+and more common with 300 and 350 mg doses: High incidence of grade
+All arade
+Poster
+(QR) code are for persona
+use only and may not be
+52.4% (11/21)
+23 anemia
+were observed
+350 mg OCCC (50%) and 300 mg EC (29%=
+thrombocytopenia
+350 mg OCCC (29%)
+Rash
+reproducee
+without written permission
+the authors:
+Highest treatme
+discontinuations
+due
+TEAEs we
+eported
+the OCCC 350 mg
+3% (2/14)
+and
+and 300 mg EC (10%) . Diarrhea
+another common
+Jrade 23 TRAE
+was
+reported
+300 mg OCCC (24%) and 350 mg
+Data
+March
+2025
+aminotransfer
+endometrial carcinon
+GFPD
+phageal
+disease)
+Dlactat
+drogenase;
+OCCC , ovaria
+~clear Ce
+I carcinoma;
+EC 200 mg 20.0% (2/10) cohorts. No TEAEs led treatment discontinuations
+the OCCC 300 mg cohort
+EC (18%) (Table
+and Figure 4)
+TEAE
+reatn
+emergent adverse
+It; TRAE TEAE possibly
+elated to tulmimetos
+References
+Acknowledgments
+Disclosures
+Roh JW et 3
+Cancer Biol
+2020.21(2)147-156_
+Wu
+Cancer Res 2021.81(Supp
+The authors thank the patients enrolled in this studv and their families
+well as
+studv
+Linda Duska reports institution research funds from Abbvie
+Aduro Biotech
+Advaxis_
+Aetema Zentaris_
+Bristol-Mvers Squibb
+Bitler BG, et al. Nat Med 2015,21(3).231-38.
+10. ClinicalTrials qov. NCT04104776 w.clinicaltrials qovlstudvINCTO4104776
+Accessed
+Mav, 20251.
+investidators
+The
+authors thank Ashwini Kumar PhamD
+and
+Joseph MSc
+both of Novartis
+Cerulean PharmaGenentech/Roche
+GlaxoSmithKline
+Lean
+Therapeutics
+Ludwig Institute
+Cancer ResearchMerck
+This study was sponsored by Novartis Pharma AG
+Basel ,
+Switzerland.
+Eich ML, et al_
+Cancer Res 2020,80(24).5449-58
+De Leo et al Cancers: 2021 Feb 25,13(5).950.
+Healthcare Pvt Ltd (Hyderabad_
+India) , for providing medical editorial assistance in the
+Millennium
+Morab
+Morphotek, Novartis, Pfizer, Syndax, and Tesaro. Institution payments
+her role
+the Monitoring and
+Maeda
+et al. Int J Moz
+Sci 2010,11(12).5120-28.
+Li J, et al;
+Clin Invest 2020,;130(5).2712-26.
+Oaknin
+ESMO 2024
+Poster-748P
+eparation of this poster
+accordance with Good Publication Practice (GPP3) quidelines
+Advisorv Boards
+Innovo
+Aedenus
+and Merck
+and personal fees from
+Daiichi Sankvo
+Poster presented at: The American Society of Clinical Oncology (ASCO) Annual Meeting;
+Liu Z
+et al_
+Ovarian Res 2024
+17(1).39.
+Lakhani NJ, et a
+Clin Oncol 2021,39 (Suppl 15).3104.
+12. Oaknin
+ASCO 2024, Poster-3097 _
+May 30
+June 3,2025; Chicago, IL, US.
+mg
+sugg
+Stage 
+Time
+(38
+350 mg
+' (27,.3
+300 mg
+response
+copy

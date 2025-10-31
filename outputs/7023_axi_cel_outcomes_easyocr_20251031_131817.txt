@@ -1,0 +1,733 @@
+EasyOCR Extraction Results
+Document: 7023_axi_cel_outcomes
+Timestamp: 20251031_131817
+==================================================
+
+Abstract
+7023
+Trends and Outcomes
+Inpatient and Outpatient Infusion of Axicabtagene Ciloleucel (Axi-Cel)
+in the US for Patients With Relapsed/Refractory Large B-Cell Lymphoma
+Fateeha Furqan, MDI; Michael T: Hemmer; MS?; Michael T: Tees, MD, MPH:; John H. Baird, MD4; Jennifer Holter-Chakrabarty, MDs; Brian McClune, DOs; Caron A Jacobson; MD, MMSc"; Saurabh Dahiya, MD, FACP8; Frederick L: Locke, MD9; Jiali H. Yan, MS?; Jenny J. Kim; MD?;
+M. Elena Pizzi, PharmD?; Dafna Bonneh-Barkay, PhD, MSc?; Hil Hsu, PhD, MPH?; Waleska S. Perez, MPHi; Zhongyu Feng; MSto; Marcelo C . Pasquini, MD, MS
+10.
+and Yi Lin, MD, PhDn
+'MD Anderson Cancer Center; Houston, TX, USA;
+Gilead Company; Santa Monica; CA;
+USA; :Colorado Blood Cancer Institute; Sarah Cannon Transplant and Cellular Therapy Network; Denver; CO, USA; 4Dept of Hematology and Hematopoietic Cell Transplantation, City of Hope National Medical Center; Duarte, CA; USA;
+5Stephenson Cancer Center at the University of Oklahoma Health Science Center; Oklahoma City; OK, USA; 6Huntsman Cancer Institute at the University of Utah, Salt Lake City; Utah, USA; "Dana-Farber Cancer Institute; Boston, MA, USA; 8Stanford University; Stanford, CA, USA; ?Moffitt Cancer Center; Tampa;
+FL,
+USA;
+CIBMTR
+1QCenter for International Blood and Marrow Transplant Research (CIBMTR), Medical College
+Wisconsin; Milwaukee; WI, USA; and
+'Mayo Clinic, Rochester; MN, USA
+AEDICAARCOLCEGE OfCNASGONSINAND
+BACKGROUND
+RESULTS
+Axicabtagene ciloleucel (axi-cel)
+an
+utologous chimeric
+Figure
+Analysis Population
+Figure -
+Incidence and Univariate Analysis of CRS and ICANS by Intended Care Setting
+Figure
+Efficacy Outcomes
+antigen receptor (CAR) T-cell therapy approved fon
+adults with
+relapsedlrefractory (RIR) large B-cel
+lymphoma (LBCL) after 21 prior
+Adult patients with RIR LBCL treated with axi-cel with
+100
+Outpatient
+100
+Progression-Free Survival
+100-
+Overall Survival
+Censored
+Censored
+line of -
+therapy1,2
+prior line of
+therapy between July 2021
+November 2023
+Inpatient
+83%
+83%
+In the pivotal
+ZUMA-7 trial
+of axi-cel in patients with RIR LBCL after
+N=794
+95/115
+80-
+80
+prior line
+therapy:
+102 treatment centers
+Excluded (n=44)a
+99/119
+Axi-cel given for LBCL transformed
+80
+Both event-free and overall survival (OS) were superior to
+60
+38
+second-line standard of care
+from CLL (n=40)
+38
+Prior alloHCT
+0
+Cytokine release syndrome (CRS)
+ocCUrrec
+92%
+patients
+Missing data (n-5)1
+40
+(6% Grade 23), and neurologic events occurred in 60% (21% Grade 23)
+Analysis Set
+[
+60
+N-750
+47%
+46%
+The risk of these commonly occurring CAR T-cell therapy-associated
+Setting
+12-Month Rate_
+(95% CI)
+Setting
+12-Month Rate,
+95% CI)
+adverse events may deter centers from using axi-ce
+an outpatient
+99 treatment centers
+5
+53/112
+54/117
+20
+patient
+53 (43-61
+20
+Inpatient
+72 (62-797
+setting; though observationa
+studies
+individual centers have
+Those intended for inpatient care who were
+Outpatient 53 (43-62)
+Outpatient
+(61-78)
+observed comparable safety and effectiveness between outpatient and
+not identified as adequate matches
+those
+40
+inpatient care
+settingss
+intended for outpatient care (n-512)
+F
+19%
+21%
+Time From Infusion (Months)
+Time From Infusion (Months)
+Improvements in adverse event management with prophylactic
+Propensity Score-Matched Set
+25/117
+No_
+risk
+No
+at risk
+steroid use and early intervention may be associated with
+N-238
+20
+21/112
+Inpatient
+Inpatient
+improved outcomes and increased feasibility of outpatient axi-cel
+75 treatment centers
+119
+88
+65
+53
+46
+119
+110
+98
+administration6
+3%
+4%
+Outpatient
+Outpatient
+Reasons for excle
+exclusiv
+b Missing
+included
+therapv
+(vesino
+intended
+settina (n
+3/119
+5/115
+119
+49
+119
+106
+90
+59
+Additionally; preliminary results of the ZUMA-24 trial of outpatient
+AlloHC
+loaenei
+atopoietic cell transplantation: axi-cel
+Cantadene
+eucel
+CLL
+chronic lymphocytic leukemia; LBCL, large
+Ivmphoma: RIR
+relansedirefractorv
+axi-cel in RIR LBCL found no Grade 23 CRS_
+no Grade
+neurologic
+Outpatient
+Inpatient
+events;
+shorter median duration of hospitalization; and lowe
+rates of
+Figure
+Patients Receiving Axi Cel With Outpatient Intent by Year
+Any Grade
+Grade 23
+Any Grade
+Grade 23
+(N-119)
+(N-119)
+intensive care unit admission than with previous clinical experience
+CRS
+ICANS
+the inpatient setting"
+30
+ORR, nln (%)
+92/118 (78)
+89/117
+CR rate
+80/118 (68)
+72/117
+62)
+Efficacy outcomes were consistent with those in trial
+in the
+CRS
+ICANS
+inpatient setting
+22.8%
+Median DOR; months (95% CI)
+NR
+NR
+Outpatient
+Inpatient
+Outpatient
+Inpatient
+12-month rate, % (95% Cl)
+64 (52-74)
+(58-78)
+88
+20
+Characteristic
+(N-119)
+(N-115)
+(N=112)
+(N=117)
+complete
+esponse: DORduration of response
+ORR
+obiective response
+OBJECTIVE
+13.5%
+Median time from infusion to onset; days (IQR)
+4 (3-7)
+4 (2-6)
+(5-9)
+(5-10)
+Median follow-up among the 119 matched patients intended for outpatient care was 12.
+months (95% Cl,
+12.1-12.7)
+To evaluate real-world safety and effectiveness outcomes
+patients
+1
+10
+9.6%
+Median time from onset to resolution
+days (IQR)
+5 (4-6)
+6 (3-8)
+7 (3-10)
+5 (2-7)
+Among those intended for inpatient care, median follow-up was 12
+months (95% Cl, 12.3-12.6)
+with RIR LBCL by intention to treat with axi-cel in outpatient and
+inpatient settings
+Event resolved,
+(%)
+99 (100)
+94 (99)
+49 (92)
+47 (87)
+Cumulative incidence by Week 3, % (95% CI)
+82 (73-88)
+82 (73-88)
+46 (37-55)
+46 (36-55)
+CONCLUSIONS
+PLAIN LANGUAGE SUMMARY
+METHODS
+Cumulative resolution by Week 
+% (95% CI)
+98 (91-100)
+99 (88-100)
+89 (76-95)
+83 (69-91)
+2021
+2022
+2023
+In recent years
+axi-cel has been
+Axicabtagene ciloleuce=
+(axi-cel)
+an
+anticancer"
+CRS cvtokine release svndrom
+CANS
+effector cell-associated neurotoxicity syndrome
+of Axi-Cel Infusion
+administered more frequently in the
+CAR T-cell therapy made from
+person's own immune
+Figure
+Study Design and Analysis
+prior to
+scOI
+match
+cells
+This one-time treatment
+usually given to
+person
+Axi-cel
+cilolel
+The incidence
+CRS and immune effector cell-associated neurotoxicity syndrome (ICANS) was similar among intended
+outpatient setting; suggesting an increase
+Data Source
+treatment for inpatient and outpatient settings (Figure
+in feasibility and comfort over time
+during
+hospital stay: Doctors can also intend -
+give
+An increasing trend
+outpatient axi-cel administration was observed over time (Figure 3)
+ICANS
+without =
+hospital stay, which
+called outpatient-intended
+colle
+CIBMTR
+No patient
+any
+setting experienced Grade
+CRS;
+patient in each care
+setting
+experienced Grade
+treatment: In that case, the person must go to the hospital if
+Data
+ected from the
+observational database
+After matching on key factors, safety and
+Study population: consenting adult patients with RIR LBCL after
+Table
+Baseline Characteristics by Intended Care Setting After Matchinga
+Between patients intended for outpatient and inpatient settings, respectively; similar rates
+prolonged cytopenias
+effectiveness outcomes were comparable
+certain side effects happen
+US
+(18%
+8%) , clinically significant infections (59%,
+47%) , and 12-month non-relapse mortalities (6%, 4%) were observed
+This real-world study looked at how safe and effective
+21 prior line of therapy receiving axi-cel in the
+between July
+Characteristic
+Outpatient (N-119)
+Inpatient (N-119)
+between patients with RIR LBCL treated
+2021 and November 2023)
+Among patients intended for outpatient care, 50% were hospitalized within
+days post-infusion; and the median duration of
+with axi-cel intended for outpatient and
+outpatient-intended axi-ce
+worked for people with a blood
+Median age, years (IQR)
+63.4 (52.1-70.1)
+64.2 (55.5-72.2)
+first admission was
+days
+cancer
+called large B-cell Iymphoma
+Those with prior non-transplant cellular
+therapy; prior alloHCT; or
+265
+(%_
+(44)
+56 (47
+inpatient settings
+unknown care setting intention were excluded
+In a subset matched analysis among patients
+270 years at infusion
+outcomes were
+comparable between the intended
+The number of peopl _
+who got outpatient-intended axi-cel
+270
+(%)b
+30 (25)
+42 (35
+care
+settings, except for
+higher any-grade ICANS associated with the intended outpatier
+setting (Grade 23 ICANS was
+Rates of CRS and ICANS
+both
+increased over time
+Outcomes
+Male sex;
+(%)
+79 (66)
+78 (667
+similar between groups;
+grade and Grade 23, were similar
+Interest
+between intended
+settings
+50% of people who got outpatient-intended axi-cel needed
+Race and Ethnicity; 
+(%)b
+Figure 5.
+Multivariate Analysis of CRS and ICANS
+to go to the hospital shortly after
+treatment
+Safety: CRS and ICANS;
+hospitalization among patients intended
+Non-Hispanic White
+85 (71)
+(66
+outcomes remained
+for outpatient administration;5
+prolonged cytopenias, clinically
+Non-Hispanic Black
+Safety
+comparable
+The safety and effectiveness of axi-cel
+were
+similar
+significant infections; and causes of death including NRM
+Hispanic or Latino
+Outcome
+Evaluable
+Odds Ratio (95% CI)
+after multivariate assessment
+people who got it without
+planned hospital stay and
+Effectiveness: ORR
+CRR
+DOR, PFS, and OS
+Other or not reported
+Any-grade CRS
+These findings corroborate prior real-world
+people who got
+during
+hospital stay
+Clinically significant comorbidity;
+(%)c
+80 (67)
+Inpatient
+115
+Reference
+resultss and support the consideration 
+Words
+bold text
+defined in the glossary that
+accessible through
+Statistical Analysis
+utpatient
+119
+09 (0.51-2.35)
+axi-cel in appropriate
+outpatient settings
+the QR code
+Bulky disease prior to infusion,
+(%)d
+Eligible patients intended for the outpatient setting were matched
+Elevated LDH prior to infusion,
+(%)e
+59
+50)
+(537
+Grade 23 CRS
+1.1 to those intended for the inpatient
+setting by propensity score
+npatient
+115
+Reference
+matching on age,
+sex, comorbidities; LDH, bulky disease
+prior
+prior line of therapy;
+(%)
+87 (73)
+89 (75)
+Outpatient
+119
+57
+(0.12-2.60)
+REFERENCES
+ACKNOWLEDGMENTS
+lines of therapy; chemosensitivity; and infusion year (Figure S1)c
+Chemoresistant disease
+to infusion,
+%)
+(60)
+(63_
+Any-grade ICANS
+YESCARTA 0
+cabtagene ciloleucel)
+rescribing information.
+The patients
+families
+friends
+caregivers
+Univariable analysis and multivariable logistic regression were
+Lymphodepletion chemotherapy;
+(%/)b
+Inpatient
+112
+Reference
+Kite Pharma, Inc; 2024
+Medical writin
+port was provide
+Danielle Fanslow, PhD
+CMPP, of
+96
+14 (0 65_2
+YESCARTA @
+icabtagene ciloleucel
+[sum mary of product
+used
+estimate differences in outcomes by intended care settings
+Cyclophosphamide
+fludarabine
+(81)
+utpatient
+00)
+characteristics] Amsterdam
+The Netherlands: Kite Pharma
+BV ; 2024
+Nexus Global Group Science LLC , funded by Kite
+in the propensity score
+-matched datasetd
+Single-agent bendamustine
+(14)
+(18
+Locke
+et al
+Engl
+Med 2022.386.640-654
+This study was funded by the
+National Institutes of Health (NCI Cellular Immunotherapy Data
+Other
+5)
+Grade 23 ICANS
+Westin
+et a
+Engl
+Med 2023.389.148-157
+Resource [CIDR]: U24CA233032; and NCI, NHLBI and NIAID for the Resource
+Hematopoietic
+Inpatient
+117
+Reference
+Furdan
+Blood Adv . 2024.8.4320-4329
+Cell Transplantation and Adoptive Cell Therapy: U24CAO7651
+Kite
+CRS
+amona
+intended for
+JcAfoswasatea
+ASTCTcoseresio
+cteria ,
+instfriteria
+ fDCootali
+pitalization aft
+Year of axi-cel infusion;
+(%)
+Outpatient
+112
+98
+98 (0.48-2.00)
+Bansa
+EHA 2024
+Poster
+1191_
+Pizzi was
+emplovee of Kite when the studv was conducted
+Current affiliation
+Sanofi
+ot considered
+samnle size
+FCOG PS >-
+intended for
+Leslie LA
+et al
+EHA 2024
+Poster P1159
+ables considered for
+ultivar
+analvsis
+cardiac comorbidities
+quirina non-di
+2021
+(6)
+Lee DW, et al. Blood
+2014;124:188-195 .
+This studv
+colla
+ration
+twee
+CIBMTR and Kite
+treatmen
+weeks
+Id hepat
+comorbidities obesitv durina
+workup, psych
+disturb
+2022
+61 (51)
+01
+0.5
+1.5
+2 2.5
+Lee DW,
+Biol Blood Marrow Transplant . 2019,25.625-638.
+consultitreatment
+4 weeks
+to infusion
+monarv comorbidities (moderatelsevere)
+Id severelv low BMI
+BMTRC
+'resear
+collaboration between
+Medical Collede of Wisconsin and NMDP
+2023
+(43)
+50
+42
+Sorror ML. Blod. 2013,121.2854-2863 _
+alloHc
+alloaeneic
+ransplantation-
+Americar
+etv fon
+Isplantat
+Cellulai
+Ierapy;
+Odds Ratio
+axice
+adene cilol
+CIBMTR, Center
+Iational Blood and Ma
+Isplan
+ECOG PS was captured but not considered in the PSM due to small sample size (n=2/119 patients with
+COG PS 22 intended for outpatient care) .
+included in PSM model
+Specific comorbidities included in
+CRS
+cvtokine release
+immune effecto
+-associat
+~neurotoxi
+response rate_
+release
+DOF
+ion of respo
+ECOG PS
+the PS estimation included cardiac comorbidities, arrhvthmia
+diabetes requ
+1 non-dietarv treatmentin 4 weel
+hepatic comorbidities, obesitv durin
+re-infusion workup
+psvchiatr
+~disturbance
+DISCLOSURES
+(QR)
+Cooperati
+ology
+ICAN
+une
+neurotoxicit
+Bcteria
+larae
+requiring consulti
+AWeevc
+usion, pulmon
+comorbid
+(moderatelse'
+tid severely [ioEtuinfusion g
+List of comorbidities defined per the HCT-specific comorbidity indext" with
+Copies of this
+resentation obtained throuqh
+Response
+code
+Ivmphoma:
+NRM; non-
+ORF
+ponse
+overa
+survival:
+addition of low BM
+as lar
+size of noda
+mass
+0 cm.
+'limit of nor
+H determined at
+center
+for personal use onlv and mav not be reproduced without permission
+proar
+PSM_
+edirefractor
+body mass index; ECOG
+Eastern Cooperative Oncology Group
+Hpeer
+ematonaletic
+ansplantation
+lactate dehydrogenase
+nerformance status
+, propensity score matching:
+In the multivariate analyses;
+no associations were found between intended care
+setting and CRS nor ICANS (Figure 5)
+Full authon
+osures
+vailable throuqha
+virtual
+eeting platform
+from ASCO
+or the author of this
+sentation_
+ERD
+Presented at the 2025 American Society of Clinical Oncology Annual Meeting
+by
+2Kite;
+Year
+to
+aged
+any-s
+prior
+graded .
+Itpatient

@@ -1,0 +1,12 @@
+{
+  "ocr_engine": "easyocr",
+  "version": "1.7.0",
+  "processing_timestamp": "20251031_131956",
+  "document_name": "ICML25_P229_mosunetuzumab_FL",
+  "file_path": "wen_documents/clinical_trials/ICML25_P229_mosunetuzumab_FL.pdf",
+  "statistics": {
+    "total_text_blocks": 1,
+    "total_characters": 82,
+    "processing_time_seconds": 0.02
+  }
+}

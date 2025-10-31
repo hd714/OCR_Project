@@ -1,0 +1,12 @@
+{
+  "ocr_engine": "easyocr",
+  "version": "1.7.0",
+  "processing_timestamp": "20251031_131817",
+  "document_name": "7023_axi_cel_outcomes",
+  "file_path": "wen_documents/posters/7023_axi_cel_outcomes.jpg",
+  "statistics": {
+    "total_text_blocks": 728,
+    "total_characters": 13540,
+    "processing_time_seconds": 98.81
+  }
+}

@@ -1,0 +1,678 @@
+EasyOCR Extraction Results
+Document: ICML25_P229_mosunetuzumab_FL
+==================================================
+
+229
+Summary
+Safety and efficacy of mosunetuzumab
+C041942 is a Phase IblIl study
+(NCT04246086) assessing
+subcutaneous maintenance following
+mosunetuzumab plus lenalidomide
+As of September 23, 2024_
+total of 40 patients received
+(Mosun+Len) induction and subsequent
+subcutaneous (SC) mosunetuzumab
+MosuntLen induction therapy,
+mosunetuzumab plus lenalidomide induction
+maintenance in patients with high tumor
+16 patients proceeded to optional
+mosunetuzumab maintenance
+burden previously untreated
+therapy in previously untreated follicular Iymphoma
+follicular lymphoma (FL)
+Toby A Eyre,1* Raul Cordoba
+Krish Patel;
+Serna
+Roch Houot;
+Mark Bishton;
+Hui-Lai Zhang;  Liqun Zou;
+Mosun+Len induction with
+Laura Galvez-Carvajal;
+Wendy Osborne,
+10
+Emmanuel Bachy,"1 Catherine Thieblemont,12 Andrea Knapp,13 Jason Sit,14 Naomi Chang,15
+Findings highlight the promise of this
+mosunetuzumab maintenance showed
+Vivian Chen; 14 Elicia Penuel,14 Michael C. Wei,14 Enkhtsetseg Purev,14 Franck Morschhauser16
+chemotherapy-free regimen for the
+*Presenting author e-mail: Toby Eyre@ouh nhsuk
+treatment of 1L FL
+durable responses and manageable
+safety, with low rates of AEs during
+1Oxford University Hospital , Oxford_
+UK; ?Fundacion Jimenez Diaz University Hospital, Madrid, Spain; :Swedish Cancer Institute, Seattle, WA_
+USA; 4Servei d'Hematologia, Vall d'Hebron Hospital
+Further follow-up is needed to
+maintenance in patients with high
+Universitari, Experimental Hematology; Vall d'Hebron Institute of Oncology (VHIO); Vall d'Hebron Barcelona Hospital Campus, Barcelona, Spain; SCHU de Rennes; Universite de Rennes, Rennes_
+confirm these results
+tumor burden first-line (1L) FL
+France; 6Nottingham University Hospitals NHS Trust and University of Nottingham, Nottingham,
+Tianjin Medical University Cancer Institute and Hospital, Tianjin, China;
+8West China Hospital, Sichuan University; Chengdu; China; 9Regional and Virgen de
+Victoria University Hospitals,
+Spain; 1Freeman Hospital Newcastle, Newcastle University;
+Newcastle upon Tyne,
+UK; 1Centre Hospitalier Lyon-Sud, Lyon;
+France;
+I2Hopital
+Saint-Louis;
+Paris
+France; 13F.
+Hoffmann-La
+Roche Ltd
+Basel, Switzerland; 14Genentech_
+Inc:, South San
+Francisco, CA, USA; 15Hoffmann-La Roche Ltd, Mississauga, Canada; 16CHU de Lille, Universite de Lille, Lille, France.
+Background
+Mosun+Len followed by mosunetuzumab SC maintenance led to high
+Mosun+Len induction with mosunetuzumab maintenance had a
+response rates and durable responses
+manageable safety profile,
+with low rates of serious AEs (SAEs) and
+The overall response rate (intention-to-treat population
+N-40) was 90.0% and complete
+Grade 3/4 AEs during maintenance
+FLis the most common subtype of indolent non-Hodgkin lymphoma (NHL) and accounts
+response
+CR; as best response)
+rate was 87.5%; four patients had stable disease (SD)
+for about 22% of all newly diagnosed NHL.
+Safety during Mosun+Len induction
+or
+progressive disease (PD):
+Therapies for FL are not yet curativve
+despite encouraging efficacy most patients will
+Three patients with SDIPD had transformed FL (tFL) in C1.
+SAEs were
+reported in 17 (42.
+patients, while Grade 3/4 AEs were reported in 28
+eventually relapse,2,3 therefore novel therapies with increased anti-tumor activity that
+0.0%) patients (Table 3).
+prolong remission in patients with 1L FL are needed. Additionally; chemotherapy-
+After
+median follow-up of 18 months (range: 6-23), median duration of response (DOR);
+duration of CR (DOCR); progression-free survival (PFS) and overall survival (OS) were
+The most
+common AEs
+Table
+were infections (28 [70.0%] patients_
+pneumonia [27.5%]
+containing regimens may have substantial toxicities,
+underlining the need for new
+nd coronavirus [COVID-19; 22.
+being the most common) , injection site reactions
+therapies with improved safety:
+not reached:
+(ISRs; 27 [67.5%]
+patients; all Grade 1/2), neutropenialneutrophil count decreased
+Mosunetuzumab
+CDZOxCD3 T-cell
+bispecific antibody; is conditionally
+The 12-month event-free rates for DOR and DOCR were 94.0% (95% confidence interval
+(25 [62.5%] patients; Grade 3/4: 20 [50.0%] patients), and CRS (21 [52.5%] patients;
+engaging
+[CI]: 86.0-100.0), and 94.
+%
+95% Cl: 86_
+-100.0), respectively (Figure 2).
+all Grade 1/2):
+approved as
+monotherapy in the United States, European Union,
+and other countries
+for the treatment of adults with relapsedlrefractory FL who have received 22 prior
+The 12-month event-free rates for PFS and OS were 86.9% (95% Cl: 76.1-97.6),
+Grade 3/4 infections occurred in five (12.5%) patients_
+systemic therapies.7,8
+and 97.4% (95% CI: 92.5-100.0), respectively (Figure 3).
+CRS occurred mainly during C1 (three patients had CRS events in C2) and all CRS
+In the Phase Iblll CO41942 study (NCT04246086) , MosuntLen induction therapy showed
+Sustained responses were observed in patients who received maintenance (no patients
+events resolved_
+promising results in patients with 1L high tumor burden FL.9
+had PD post-induction), and in patients who were eligible but did not receive maintenance
+A total of 21 patients received granulocyte colony-stimulating factor prophylaxis.
+and were observed post-induction (one patient had PD post-induction):
+We present updated data for Mosun+Len induction and initial efficacy and safety of
+No patients experienced Grade 5 AEs, febrile neutropenia,
+or immune effector
+subsequent optional mosunetuzumab SC maintenance.
+Figure 2. DOR (A) and DOCR (B)
+cell-associated neurotoxicity syndrome (ICANS):
+Safety during mosunetuzumab maintenance
+A multicenter; open-label Phase Ib/II study (NCT04246086) was
+Fewer SAEs (n=2, 12.5%) and Grade 3/4 AEs (n=4,25.0%) were reported during the
+maintenance phase versus the induction phase (Table 3).
+conducted to assess Mosun+Len induction with mosunetuzumab SC
+1
+ISRs occurred
+two (12.5%) patients
+all Grade 1/2) and neutropenialneutrophil count
+maintenance in patients with FL
+decreased in four (25.0%) patients (Grade 3/4: three [18.8%] patients; Table 4).
+DOR (95% CI): NE
+Median DOCR (95% CI): NE
+Patients with newly diagnosed CD2O+ FL Grade 1-3a who required systemic therapy
+One patient discontinued maintenance due to an AE:
+per Groupe d'Etude des Lymphomes Folliculaires (GELF) criteria and had an Eastern
+Time
+' from the first response (months)
+Time from the first complete response (months)
+Cooperative Oncology Group performance status (ECOG PS) of 0-2 were included:
+No CRS or Grade 3/4 infections occurred.
+Patients at risk
+Patients at
+Patients received 12 cycles of MosuntLen (Cycle [C]1: 21 days; C2-12: 28 days;
+No patients experienced Grade 5 AEs, febrile neutropenia_
+or ICANS_
+Figure 1).
+Figure 3_
+PFS (A) and OS (B):
+Table 3. Summary of AEs:
+mosunetuzumab SC: C1 step-up dosing for cytokine release syndrome (CRS) mitigation
+A
+(Day [D]1: Smg; D8 and D15: 45mg) and C2-12 D1,
+Induction phase
+Maintenance phase
+(n=40)
+(n-16)
+lenalidomide [oral]: D1-21 of C2-12, 2Omg:
+Patients with 21 AE
+40 (100)
+(68.8)
+Responders could receive optional mosunetuzumab SC (45mg) monotherapy
+Related to mosunetuzumab
+39 (97 .
+(56.3)
+maintenance every
+weeks
+or
+cycles (C13-21; Figure 1):
+g
+Censored
+Censored
+Related
+lenalidomide
+36 (90.0)
+Median PFS
+CI): NE
+Median OS
+CI): NE
+Anti-infective prophylaxis followed institutional standards.
+Serious AEs
+(42.5)
+(12.5)
+of
+from the first treatment (months)
+Time from the first treatment (months)
+Related to mosunetuzumab
+(22.0)
+(6.3)
+The primary objective
+the 1L FL high tumor-burden cohort was to evaluate the efficacy
+Patier
+Patients
+Related to lenalidomide
+(7.5)
+NIA
+of Mosun+Len induction followed by mosunetuzumab SC maintenance_
+Grade 3/4 AEs
+28 (70.0)
+(25.0)
+Response was determined through use of computed tomography (CT) or positron
+emission tomography (PET)-CT scans,
+using the
+-ugano 2014 criteria.
+Grade
+AEs
+Distinct activation profiles emerge with Mosun+Len induction and
+AE leading to treatment discontinuation
+(15.0)
+(6.3)
+Figure
+Mosun+Len administration_
+mosunetuzumab maintenance in peripheral CDA+ and CD8+ T cells
+Withdrawal from mosunetuzumab
+(12.
+(6.3)
+D1
+D8
+D15
+Withdrawal
+from
+enalidomide
+(7.5)
+NIA
+natural killer (NK) cells
+IM: 45mg M: 45mg/M: 45mgl
+45mg]
+M: 45mg 
+SC
+AE leading to lenalidomide dose modification
+13 (32.5)
+NIA
+Levels of the early activation marker CD69 increase 48 hours after initial
+dose of
+mosunetuzumab in both CD4+
+CD8+
+cells but return to and are maintained at near
+AE leading to lenalidomide dose interruption
+24 (60.0)
+NIA
+D1-21
+D1-21
+D1-21
+pre-dose levels with subsequent dosing (Figure 4)-
+AE leading to mosunetuzumab
+M: Smg
+Len: 20mg
+Len: 20mg
+Len: 20mg
+modificationlinterruption
+18 (45.0)
+2 (12.5)
+Levels of the activation marker human leukocyte antigen -
+DR isotype (HLA-DR) increase
+Optional
+early in
+cells; in CD8+
+cells HLA-DR expression is elevated and sustained after
+'Reported as
+number of patients (%). NA_
+not applicable.
+C1
+C2
+C3
+C12
+maintenance
+(M:45 mg SC)
+week of lenalidomide (Figure
+21-day cycle
+28-day cycle
+28-day cycle
+28-day cycle
+No mandatory hospitalization. Len, lenalidomide; M, mosunetuzumab
+8-week
+PDI levels increase on CD4+
+cells consistent with activation and levels are maintained
+Table
+Most common all grade AEs (in 220% of patients):
+throughout the first cycle but are reduced substantially after the first week of lenalidomide
+coadministration:
+contrast, PD1 levels increase on CD8+ cells after
+week of
+Induction phase
+Maintenance phase
+(n-40)
+(n-16)
+lenalidomide but subsequently decline with continued exposure (Figure 4).
+As of September 23, 2024, 40 patients received MosuntLen induction
+ISR
+27 (67.5)
+2 (12.5)
+and 16 patients opted to proceed to mosunetuzumab maintenance
+Activation profiles of peripheral CD4+ and CD8+
+cells_
+Neutropenialneutrophil count decreased
+25 (62.5)
+(25.0)
+Median age was 62 years_
+55% were male and 45% had
+Follicular Lymphoma
+CRS
+21 (52.5)
+International Prognostic Index (FLIPI) score of 3/4 (Table
+and Table 2).
+Diarrhea
+13 (32.5)
+(6.3)
+Median time from initial diagnosis to first study treatment was 59 days (range: 15-3386).
+Dry skin
+13 (32.5)
+Median follow-up was 17.5 months (range: 6-23).
+ CD8+ HLAE
+Rash
+13 (32.5)
+Table 1
+Patient demographics
+Table 2
+Disease characteristics_
+Asthenia
+12 (30.0)
+1L FL cohort
+1L FL cohort
+Pneumonia
+11 (27.5)
+(6.
+(N-40)
+(N-40)
+Constipation
+11 (27.5)
+Median age,
+years (range)
+62 (28-83)
+Ann Arbor
+at study entry
+Headache
+10 (25.0)
+11 8 3 1 18717 081 8 8 1 {101 8
+5 (12.5)
+Male,
+(%)
+22 (55.0)
+COVID-19
+(22.5)
+III-IV
+35 (87.5)
+Race
+FLIPI Score at study entry
+Early activation of CD69+ expressing
+Figure
+Activation profiles of NK cells.
+White
+16 (40.0)
+NK
+limited to first dose of
+NK CDT
+NK CD16+ CD69
+NK CD16+
+NK CD16+ GZMB
+NK CD16+
+(17.5)
+Asian
+(7.5)
+15 (37 .
+mosunetuzumab (Figure 5).
+Black
+(27.5)
+Sustained expansion of granzyme B
+Conclusions
+Unknown*
+(52.5)
+(17.5)
+(GZMB) expressing NK cells after
+Ethnicity
+FL grade
+lenalidomide administration suggests
+Not Hispanic or Latino
+19 (47.5)
+functional NK activity (Figure 5).
+MosuntLen induction with mosunetuzumab maintenance showed durable responses
+1-2
+31 (77.5)
+manageable safety; with
+low rates of AEs during maintenance in patients with high tumor
+Not stated:
+20 (50.0)
+3a
+(17.5)
+Despite sustained GZMB that could
+burden 1L FL_
+Unknown
+(2.5)
+3a
+(5.0)
+lead to exhaustion, higher levels of
+ECOG PS
+(P7cm)t
+cell immunoglobulin and ITIM domain
+These results highlight the promise of this chemotherapy-free regimen, although further
+Bulky disease
+24 (60_
+(TIGIT) are not consistently observed
+follow-up is needed to confirm these findings.
+.0)
+Yes
+19 (47.5)
+16 (40.0)
+No
+(52.5)
+(Figure 5).
+The Phase
+MorningLyte trial (EUCT: 2023-505436-35-00) is studying this
+'Country restricted inquiry:
+Clinical cut-off date for bulky disease was July 20, 2023.
+THVHNA TNAONNAN TANAHNATNNM
+regimen further:
+Presented at the 2025 International Conference on Malignant Lymphoma (ICML) Annual Meeting
+June 17-21, 2025
+References
+Acknowledaments
+Disclosures
+Zelenetz
+J Natl Compr Canc
+14;12.91
+NCTO4246C
+party
+TAE: Honoraria"
+Hoffmann
+Roche Ltd
+Gilead
+KITE
+Janssen, AbbVie
+AstraZeneca
+Oncoloqv
+BeiGene, Incvte, Autolus
+Galapagos ,
+Consultinaladvisorv role (F Hoffmann-La Roch
+Gilead
+Janssen,
+AstraZeneca; Loxo Onco
+iGene
+Incvte
+utolus_
+Galapagos, BMS) , speaker
+bureal
+Casulo
+et al. J Clin Oncol 2015,33.251
+~direction of all authors
+provided_
+' Hoffmann-La Roche Ltd, Gilead, KITE, Janssen, AbbVie. AstraZeneca Loxo Oncoloqv =
+BeiGene, Incyte, BMS) , research
+(AstraZeneca, BeiGene) and travel, accomr
+odation.
+expenses (F Hoffman
+Roche Ltd); RC: Consultingladvisory role
+Hoffmann-La Roche Ltd. AbbVie. Johnson & Johnson, Lillv BeiGene.
+Casulo
+2022.139.1684-93_
+Dobb
+PhD, of Ashfield Medco
+an In
+AstraZer
+Gilead.BMS   Takeda
+Kyowa-Kirin; Incyte 
+Reaener
+speaker's bureau (F
+In-La Roche Ltd, AbbVie, Johnson & Johnson; Lilly, BeiGene
+AstraZeneca. Gilead, BMS . Takeda. Kvowa-Kirin,
+Regeneron) ; expert testin
+Hoffmann-La Roche Ltc
+AbbVie, Johnson & Johnson, Lilly; BeiGene, AstraZeneca
+Copies of this poster obtained through Quick
+2013,381:1203-10.
+funded
+Hoffmann-La Roche Ltd
+Gilead,
+Takeda
+Kyowa-Kirin
+Incyte, Regeneron) and trave
+ommodation, expenses (F Hoffmann-La Roche Ltd
+Johnson & Johnson, Lilly, BeiGene, AstraZeneca, Gilead,
+Kvowa-Kirin):
+Honoraria
+' (AstraZeneca, BMS 
+Pharma) ; Consultingladvisory role (AbbVie, Adaptive; ADC Therapeutics,
+Blood 2014.123.2944-52
+AstraZeneca
+BeiGene , BMS, Caribou, Genentech
+Janssen
+Lilly; Merck; Nurix, Pfizer; Sana)
+research funding (AbbVie, Adaptive, AstraZeneca, BMS
+Caribol
+Century Therapeutics
+CRISPR Therapeutics
+Fate Therapeutics
+Genentech/Roche, Janssen/Pharmacyclics, Kite, LillylLoxo, Merck, Nurix, Pfizer; Sana
+Response (QR) Code are for personal use only
+IW , et al
+Xencor);
+Honoraria (AstraZeneca, AbbVie
+Hoffmann
+Roche Ltd, Incyte,
+Behring, Johnson & Johnson);
+accommodation, expenses (AstraZeneca, AbbVie, Johnson & Johnson
+Hoffmann
+Roche Ltd);
+(Kite/Gilead, Novartis, BMSICelgene, Incyte, Janssen, MSD
+Takeda, Amgen;
+12018,379.934-47
+Roche) , Consultingladvisory
+(Kite/Gilead; Novartis, BMSICelgene, Tessa Therapeutics
+Hoffman
+Roche
+Ltd); =
+I travel, accommodation, expenses (Novartis); MB_
+aria (Roche
+Pharmaceutica
+Gilead,
+nssen, AbbVie
+' Incyte, Recordati) , Consultingladvisory
+ (Roche Pharmaceuticals, AbbVie,
+and may not be reproduced without permission
+umio@ SmPC. Available
+https IIWW ema europa eu
+AstraZer
+1 funding (Roch
+'disclosu
+disclos
+LG-C
+Kite Gileac
+Kyowa Kiriz
+Incyte_
+AbbVie)
+ultingl=
+a Roche
+ Gilead
+[Accessed Mav 2C
+AbbVie
+speaker's b
+Hoffmann-La
+Takeda, Kite Gilead
+BMS, AbbVie)
+travem
+Hoffmann-La Roche
+Kite Gilead,
+Kyowa
+BMS);
+from the lead author of this poster
+LUNSUMIO@ USP
+Available at
+loffmanr
+Roche
+Kite/Gilead_
+vartis,BMS
+Takeda
+Miltenvie
+Consultinaladvisorv
+AbbVie) , research
+Inding (Amgen, BMS)
+Roche
+Kitel
+BMS
+AbbVie, Miltenvi);
+Honoraria
+[Accessed May 2025]
+Hoffn
+Roche
+BMS
+Novartis
+IZeneca) , Consultinaladvisorv
+(AbbVie.
+Hoffmann-La Roche Ltd
+BMS.Novartis,
+travel,
+mmodatior
+Ises (AbbVie
+Hoffmar
+Roche Ltd. Incvte
+mployment (F
+Hoffmann-La Roche Ltd);
+nployment (Genentech; Inc ) and stock
+other
+Download this presentation: https Ilter lilegr4wl
+Morschhauser
+Blood 2023;142(SL
+1).605_
+ownership .
+Hoffmar
+le Ltd)-
+Emplovment
+Hoffmann-La
+ne Ltd) and
+Hoffmann
+Roche Ltd):
+Emplovment (F
+Hoffmann-La
+ne Ltd, Genen
+Emplovment
+Hoffmann-La RocE
+Inc.) and stock or other
+Hoffmann
+Roche
+Genentech
+ccommodatio
+Hoffmann-La Roche Ltd, Genentect
+MCW
+Employment
+(Genentech
+A) stock or other ownership
+Hoffmann-La
+Roche Ltd),
+and pate
+intellectual property (Genentech,
+Emplovment (Genentech
+stock or other ownershin
+'Hoffmar
+Roche Ltd), and trave
+accommodation,
+enses (Genentech;
+ Honoraria (Takeda, Kite/Gilead, AstraZeneca) , Consultingladvisory
+(BMS, AbbVie,
+Hoffmann
+Roche
+Miltenyi
+Janssen; Modex therapeutics), and research funding (F Hoffmann-La Roche Ltd, BMS, KitelGilead):
+I7th
+International
+June
+Follicular Lymphoma
+Poster number
+Conference
+13-17
+ICML
+on Malignant
+2023
+[Lsgawbhoma
+229
+https:/ /doi.org/10.1002 /hon.70094_229
+and
+Angel
+Malaga
+5%)
+and
+5%]
+45mg:
+and
+and
+CDA+
+cycle
+Figure
+Stage
+and
+AbbVie ,
+AbbVie_
+'AbbVie _
+nership 
+nership 

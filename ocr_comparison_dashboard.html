@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>OCR Engine Comparison - Tesseract vs EasyOCR</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .metric-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .metric-title {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        .metric-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+        }
+        .comparison-table {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th {
+            background: #f8f9fa;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+        td {
+            padding: 15px;
+            border-top: 1px solid #e9ecef;
+        }
+        .text-preview {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .preview-content {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 4px;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 300px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+        }
+        .tab-buttons {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .tab-btn {
+            padding: 10px 20px;
+            background: white;
+            border: 2px solid #667eea;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .tab-btn.active {
+            background: #667eea;
+            color: white;
+        }
+        .winner { background: #d4f8d4; }
+        .slower { background: #ffe4e4; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>OCR Engine Comparison Report</h1>
+        <p>Tesseract vs EasyOCR - Processing Results for Wen Documents</p>
+        <p>Generated: October 31, 2025</p>
+    </div>
+
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <div class="metric-title">Documents Processed</div>
+            <div class="metric-value">4</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">Tesseract Avg Speed</div>
+            <div class="metric-value">~25 sec</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">EasyOCR Avg Speed</div>
+            <div class="metric-value">~130 sec</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">PDF Support</div>
+            <div class="metric-value"> Fixed</div>
+        </div>
+    </div>
+
+    <div class="comparison-table">
+        <table>
+            <thead>
+                <tr>
+                    <th>Document</th>
+                    <th>Format</th>
+                    <th>Tesseract</th>
+                    <th>EasyOCR</th>
+                    <th>Winner</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>3102 Phase 2 Dose</td>
+                    <td>JPG</td>
+                    <td class="winner">17,236 chars in 26s</td>
+                    <td>14,898 chars in 151s</td>
+                    <td>Tesseract (faster)</td>
+                </tr>
+                <tr>
+                    <td>7023 Axi-Cel</td>
+                    <td>JPG</td>
+                    <td>12,494 chars in 17s</td>
+                    <td class="winner">13,540 chars in 99s</td>
+                    <td>EasyOCR (more text)</td>
+                </tr>
+                <tr>
+                    <td>ICML25 P229</td>
+                    <td>PDF</td>
+                    <td class="slower">Failed</td>
+                    <td class="winner">16,068 chars in 161s</td>
+                    <td>EasyOCR</td>
+                </tr>
+                <tr>
+                    <td>Pharma Day 2025</td>
+                    <td>PDF (168 pages)</td>
+                    <td class="slower">Failed</td>
+                    <td class="winner">Processing...</td>
+                    <td>EasyOCR</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="tab-buttons">
+        <button class="tab-btn active" onclick="showDoc('3102')">3102 Phase 2</button>
+        <button class="tab-btn" onclick="showDoc('7023')">7023 Axi-Cel</button>
+        <button class="tab-btn" onclick="showDoc('icml')">ICML25</button>
+    </div>
+
+    <div class="text-preview">
+        <h3>Sample Text Comparison - <span id="current-doc">3102 Phase 2</span></h3>
+        <h4>Tesseract Output (first 500 chars):</h4>
+        <div class="preview-content" id="tess-preview">Loading...</div>
+        <h4>EasyOCR Output (first 500 chars):</h4>
+        <div class="preview-content" id="easy-preview">Loading...</div>
+    </div>
+
+    <script>
+        // Sample data - you would insert actual text here
+        const ocrData = {
+            '3102': {
+                tesseract: 'Figure 1. Study Design\n7\" METHODS pure 1. Study Desig\n}\n% INTRO D UCTI O N + This multicohort phase 1/11 trial, evaluated the safety...',
+                easyocr: '#3102\nMETHODS\nFigure\nStudy Design\nINTRODUCTION\nThis multicohort phase II/III trial, evaluated the safety and efficacy...'
+            },
+            '7023': {
+                tesseract: 'Sample Tesseract output for 7023...',
+                easyocr: 'Sample EasyOCR output for 7023...'
+            },
+            'icml': {
+                tesseract: 'Failed to process PDF',
+                easyocr: 'ICML25 - P229\nMosunetuzumab Monotherapy...'
+            }
+        };
+
+        function showDoc(docId) {
+            document.getElementById('tess-preview').textContent = ocrData[docId].tesseract;
+            document.getElementById('easy-preview').textContent = ocrData[docId].easyocr;
+            
+            // Update active button
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            // Update title
+            const titles = {'3102': '3102 Phase 2', '7023': '7023 Axi-Cel', 'icml': 'ICML25'};
+            document.getElementById('current-doc').textContent = titles[docId];
+        }
+        
+        // Load initial data
+        showDoc('3102');
+    </script>
+</body>
+</html>

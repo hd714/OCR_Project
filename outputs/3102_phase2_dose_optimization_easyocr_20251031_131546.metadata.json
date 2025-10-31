@@ -1,0 +1,12 @@
+{
+  "ocr_engine": "easyocr",
+  "version": "1.7.0",
+  "processing_timestamp": "20251031_131546",
+  "document_name": "3102_phase2_dose_optimization",
+  "file_path": "wen_documents/posters/3102_phase2_dose_optimization.jpg",
+  "statistics": {
+    "total_text_blocks": 902,
+    "total_characters": 14898,
+    "processing_time_seconds": 150.99
+  }
+}

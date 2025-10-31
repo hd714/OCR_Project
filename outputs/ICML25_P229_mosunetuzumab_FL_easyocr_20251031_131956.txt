@@ -1,0 +1,6 @@
+EasyOCR Extraction Results
+Document: ICML25_P229_mosunetuzumab_FL
+Timestamp: 20251031_131956
+==================================================
+
+PDF processing failed: Unable to get page count. Is poppler installed and in PATH?
