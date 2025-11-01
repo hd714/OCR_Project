@@ -1,0 +1,726 @@
+{
+  "tested": "2025-10-31T20:03:58.676430",
+  "total_files": 144,
+  "successful": [
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\hubble_deep_field.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\retina.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\rocket.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\simple.jpg",
+      "characters": 21,
+      "words": 4
+    },
+    {
+      "file": "Biotech_Model_Test\\ultra_simple.jpg",
+      "characters": 15,
+      "words": 2
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\imgaug\\quokka.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\hubble_deep_field.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\retina.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\rocket.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\sklearn\\datasets\\images\\china.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\sklearn\\datasets\\images\\flower.jpg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "wen_documents\\posters\\3102_phase2_dose_optimization.jpg",
+      "characters": 15575,
+      "words": 2883
+    },
+    {
+      "file": "wen_documents\\posters\\7023_axi_cel_outcomes.jpg",
+      "characters": 12029,
+      "words": 2112
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\docx\\templates\\default-docx-template\\docProps\\thumbnail.jpeg",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "clinical_trial_test.png",
+      "characters": 237,
+      "words": 30
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help_large.png",
+      "characters": 2,
+      "words": 1
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\logo2.png",
+      "characters": 11,
+      "words": 1
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_complex.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_empty_graph.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_house_with_colors.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_labels_and_colors.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_shortest_path.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_house_with_colors.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\scipy\\ndimage\\tests\\dots.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\astronaut.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\brick.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\camera.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\cell.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\chelsea.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\chessboard_GRAY.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\chessboard_RGB.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\clock_motion.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\coffee.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\coins.png",
+      "characters": 25,
+      "words": 5
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\color.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\grass.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\gravel.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\horse.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\ihc.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\logo.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\microaneurysms.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\moon.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\motorcycle_left.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\motorcycle_right.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\page.png",
+      "characters": 174,
+      "words": 30
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\phantom.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\text.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_and.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_not.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_or.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_xor.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\cv_simple.png",
+      "characters": 5,
+      "words": 1
+    },
+    {
+      "file": "Biotech_Model_Test\\simple.png",
+      "characters": 21,
+      "words": 4
+    },
+    {
+      "file": "Biotech_Model_Test\\test_image.png",
+      "characters": 175,
+      "words": 30
+    },
+    {
+      "file": "Biotech_Model_Test\\ultra_simple.png",
+      "characters": 15,
+      "words": 2
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\imgaug\\quokka_depth_map_halfres.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help_large.png",
+      "characters": 2,
+      "words": 1
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect_large.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\logo2.png",
+      "characters": 11,
+      "words": 1
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_complex.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_empty_graph.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_house_with_colors.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_labels_and_colors.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_display_shortest_path.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\networkx\\drawing\\tests\\baseline\\test_house_with_colors.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\scipy\\ndimage\\tests\\dots.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\astronaut.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\brick.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\camera.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\cell.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\chelsea.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\chessboard_GRAY.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\chessboard_RGB.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\clock_motion.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\coffee.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\coins.png",
+      "characters": 25,
+      "words": 5
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\color.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\grass.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\gravel.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\horse.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\ihc.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\logo.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\microaneurysms.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\moon.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\motorcycle_left.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\motorcycle_right.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\page.png",
+      "characters": 174,
+      "words": 30
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\phantom.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\text.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_and.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_not.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_or.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\sympy\\plotting\\tests\\test_region_xor.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\visualdl\\server\\dist\\_dist_\\assets\\images\\netron.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\werkzeug\\debug\\shared\\console.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\werkzeug\\debug\\shared\\less.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\werkzeug\\debug\\shared\\more.png",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": ".venv\\Lib\\site-packages\\skimage\\data\\no_time_for_that_tiny.gif",
+      "characters": 0,
+      "words": 0
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\skimage\\data\\no_time_for_that_tiny.gif",
+      "characters": 0,
+      "words": 0
+    }
+  ],
+  "failed": [
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\cssutils\\tests\\sheets\\images\\example.gif",
+      "error": "cannot identify image file 'Biotech_Model_Test\\\\.venv\\\\Lib\\\\site-packages\\\\cssutils\\\\tests\\\\sheets\\\\images\\\\example.gif'"
+    },
+    {
+      "file": "Biotech_Model_Test\\.venv\\Lib\\site-packages\\cssutils\\tests\\sheets\\import\\images2\\example2.gif",
+      "error": "cannot identify image file 'Biotech_Model_Test\\\\.venv\\\\Lib\\\\site-packages\\\\cssutils\\\\tests\\\\sheets\\\\import\\\\images2\\\\example2.gif'"
+    }
+  ]
+}

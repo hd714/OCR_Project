@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OCR Comparison Report</title>
+    <style>
+        body {font-family: Arial; background: linear-gradient(135deg, #667eea, #764ba2); padding: 20px;}
+        .container {max-width: 1200px; margin: 0 auto;}
+        .header {background: white; border-radius: 10px; padding: 30px; margin-bottom: 20px; text-align: center;}
+        h1 {color: #667eea; margin: 0;}
+        .stats {display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin-bottom: 20px;}
+        .stat {background: white; padding: 20px; border-radius: 10px; text-align: center;}
+        .stat-value {font-size: 2em; color: #667eea; font-weight: bold;}
+        .stat-label {color: #666; margin-top: 5px;}
+        .file-section {background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px;}
+        .file-header {background: #667eea; color: white; padding: 15px; margin: -20px -20px 20px -20px; border-radius: 10px 10px 0 0;}
+        .comparison {display: grid; grid-template-columns: 1fr 1fr; gap: 20px;}
+        .engine {background: #f5f5f5; padding: 15px; border-radius: 8px;}
+        .metric {display: flex; justify-content: space-between; margin: 10px 0;}
+        .differences {background: #fff9e6; padding: 15px; border-radius: 8px; margin-top: 20px;}
+        .diff-item {background: white; padding: 10px; margin: 10px 0; border-radius: 5px;}
+        .similarity-bar {background: #e0e0e0; height: 30px; border-radius: 15px; overflow: hidden; margin: 20px 0;}
+        .similarity-fill {background: linear-gradient(90deg, #667eea, #764ba2); height: 100%; display: flex; align-items: center; justify-content: center; color: white;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>OCR Comparison Report</h1>
+            <p>Tesseract vs EasyOCR Analysis</p>
+        </div>
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-value">1</div>
+                <div class="stat-label">Files Processed</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">19.59s</div>
+                <div class="stat-label">Avg Tesseract Time</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">156.73s</div>
+                <div class="stat-label">Avg EasyOCR Time</div>
+            </div>
+            <div class="stat">
+                <div class="stat-value">36.2%</div>
+                <div class="stat-label">Avg Similarity</div>
+            </div>
+        </div>
+        <div class="file-section">
+            <div class="file-header">
+                <h2>File 1: 3102_phase2_dose_optimization.jpg</h2>
+            </div>
+            <div class="comparison">
+                <div class="engine">
+                    <h3>Tesseract</h3>
+                    <div class="metric"><span>Time:</span><strong>19.586s</strong></div>
+                    <div class="metric"><span>Confidence:</span><strong>79.5%</strong></div>
+                    <div class="metric"><span>Characters:</span><strong>15,575</strong></div>
+                    <div class="metric"><span>Words:</span><strong>2,883</strong></div>
+                </div>
+                <div class="engine">
+                    <h3>EasyOCR</h3>
+                    <div class="metric"><span>Time:</span><strong>156.728s</strong></div>
+                    <div class="metric"><span>Confidence:</span><strong>82.6%</strong></div>
+                    <div class="metric"><span>Characters:</span><strong>14,898</strong></div>
+                    <div class="metric"><span>Words:</span><strong>2,300</strong></div>
+                </div>
+            </div>
+            <div class="similarity-bar">
+                <div class="similarity-fill" style="width: 36.18941357923408%">
+                    36.2% Similar
+                </div>
+            </div>
+            <div class="differences">
+                <h3>Key Differences (Top 5)</h3>
+                
+                <div class="diff-item">
+                    <strong>Line 1:</strong><br>
+                    Tesseract: M = T H O D S Figure 1. Study Design<br>
+                    EasyOCR: #3102 METHODS Figure Study Design INTRODUCTION Thi
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
