@@ -158,3 +158,4 @@ class PDFPlumberParser(BaseOCR):
                 self.logger.error(f"Traceback: {traceback.format_exc()}")
             
             return "", 0, {'error': str(e), **metadata}
+        
