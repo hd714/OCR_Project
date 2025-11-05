@@ -1,0 +1,27 @@
+{
+  "text": "[DeepSeek-OCR Mock Extraction]\n                Document: test_deepseek.png\n                \n                This is a mock extraction for testing the pipeline integration.\n                In production, DeepSeek-OCR would extract:\n                - All visible text from the image\n                - Table structures preserved\n                - Mathematical formulas\n                - Multi-language content\n                \n                Mock metrics:\n                - Processing time: 0.5s\n      ...",
+  "full_text_length": 586,
+  "processing_time": 112.73088609997649,
+  "word_count": 51,
+  "char_count": 586,
+  "confidence": 0.95,
+  "metadata": {
+    "engine": "DeepSeek-OCR",
+    "model": "deepseek-ai/DeepSeek-OCR",
+    "gpu_used": true,
+    "8bit_quantization": false,
+    "image_size": [
+      600,
+      400
+    ],
+    "mock_mode": true,
+    "output_length": 586,
+    "processing_mode": "mock"
+  },
+  "errors": [],
+  "model_name": "DeepSeek-OCR",
+  "timestamp": "2025-11-05T14:03:15.740859",
+  "memory_usage_mb": 17.69367027282715,
+  "file_hash": "490b6a1d81fb0dbb99596567dad78ea4",
+  "chars_per_second": 5.198220472429359
+}

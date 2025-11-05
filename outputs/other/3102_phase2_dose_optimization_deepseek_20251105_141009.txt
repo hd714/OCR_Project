@@ -1,0 +1,15 @@
+[DeepSeek-OCR Mock Extraction]
+                Document: 3102_phase2_dose_optimization.jpg
+                
+                This is a mock extraction for testing the pipeline integration.
+                In production, DeepSeek-OCR would extract:
+                - All visible text from the image
+                - Table structures preserved
+                - Mathematical formulas
+                - Multi-language content
+                
+                Mock metrics:
+                - Processing time: 0.5s
+                - Confidence: High
+                - Image size: (6000, 3500)
+                

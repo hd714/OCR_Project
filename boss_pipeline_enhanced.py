@@ -110,12 +110,14 @@ class EnhancedBossPipeline:
         """Process image files with OCR engines"""
         from Biotech_Model_Test.src.local_ocr.ocr_tesseract import TesseractOCR
         from Biotech_Model_Test.src.local_ocr.ocr_easyocr import EasyOCROCR as EasyOCREngine
+        from Biotech_Model_Test.src.local_ocr.ocr_deepseek import DeepSeekOCR
 
         results = {}
 
         # Initialize OCR engines
         tesseract = TesseractOCR()
         easyocr = EasyOCREngine(use_gpu=False)
+        deepseek = DeepSeekOCR(use_gpu=False)
 
         print("Running Tesseract OCR...")
         tesseract_result = tesseract.process(image_path)
@@ -124,6 +126,10 @@ class EnhancedBossPipeline:
         print("Running EasyOCR...")
         easyocr_result = easyocr.process(image_path)
         results['EasyOCR'] = easyocr_result
+
+        print("Running DeepSeek OCR...")
+        deepseek_result = deepseek.process(image_path)
+        results['DeepSeek'] = deepseek_result
 
         # Generate HTML report
         report_path = self._generate_image_report(image_path, results)
@@ -137,7 +143,8 @@ class EnhancedBossPipeline:
             "report": str(report_path),
             "results": {
                 "tesseract_words": tesseract_result.word_count,
-                "easyocr_words": easyocr_result.word_count
+                "easyocr_words": easyocr_result.word_count,
+                "deepseek_words": deepseek_result.word_count
             }
         }
 

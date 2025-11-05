@@ -136,12 +136,12 @@ class OCRPipeline:
                 kwargs['use_gpu'] = self.enable_gpu
             
             model = model_class(**kwargs)
-            console.print(f"[green]✓ Initialized {model_name}[/green]")
+            print(f"[OK] Initialized {model_name}")
             return model
-            
+
         except Exception as e:
-            console.print(f"[red]Failed to initialize {model_name}: {e}[/red]")
-            console.print(f"[yellow]Traceback: {traceback.format_exc()}[/yellow]")
+            print(f"[ERROR] Failed to initialize {model_name}: {e}")
+            print(f"Traceback: {traceback.format_exc()}")
             return None
     
     def process_file(self, file_path: Union[str, Path], **kwargs) -> Dict[str, OCRResult]:
@@ -172,7 +172,7 @@ class OCRPipeline:
                         result = future.result()
                         results[model_name] = result
                         self.benchmarker.add_result(result)
-                        console.print(f"[green]✓ {model_name}: {result.word_count} words in {result.processing_time:.3f}s[/green]")
+                        print(f"[OK] {model_name}: {result.word_count} words in {result.processing_time:.3f}s")
                     except Exception as e:
                         console.print(f"[red]Error with {model_name}: {e}[/red]")
         else:
@@ -194,9 +194,9 @@ class OCRPipeline:
                             
                             # Special handling for CLIP embeddings
                             if model_name == 'clip' and result.metadata.get('image_embedding'):
-                                console.print(f"[green]✓ {model_name}: Generated embeddings (dim: {len(result.metadata['image_embedding'])})[/green]")
+                                print(f"[OK] {model_name}: Generated embeddings (dim: {len(result.metadata['image_embedding'])})")
                             else:
-                                console.print(f"[green]✓ {model_name}: {result.word_count} words in {result.processing_time:.3f}s[/green]")
+                                print(f"[OK] {model_name}: {result.word_count} words in {result.processing_time:.3f}s")
                     except Exception as e:
                         console.print(f"[red]Error with {model_name}: {e}[/red]")
         

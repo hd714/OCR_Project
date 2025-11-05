@@ -235,9 +235,9 @@ class OCRBenchmarker:
         if len(self.results) > 1:
             fastest = sorted_results[0]
             slowest = sorted_results[-1]
-            table += f"\n🏆 Fastest: {fastest.model_name} ({fastest.processing_time:.3f}s)\n"
-            table += f"🐢 Slowest: {slowest.model_name} ({slowest.processing_time:.3f}s)\n"
-            table += f"⚡ Speed Difference: {(slowest.processing_time/fastest.processing_time):.1f}x\n"
+            table += f"\n[FASTEST] {fastest.model_name} ({fastest.processing_time:.3f}s)\n"
+            table += f"[SLOWEST] {slowest.model_name} ({slowest.processing_time:.3f}s)\n"
+            table += f"[SPEED DIFF] {(slowest.processing_time/fastest.processing_time):.1f}x\n"
             
         return table
     

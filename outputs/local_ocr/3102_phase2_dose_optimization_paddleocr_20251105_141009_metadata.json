@@ -1,0 +1,17 @@
+{
+  "text": "",
+  "full_text_length": 0,
+  "processing_time": 63.972362400003476,
+  "word_count": 0,
+  "char_count": 0,
+  "confidence": null,
+  "metadata": {},
+  "errors": [
+    "Error processing wen_documents\\posters\\3102_phase2_dose_optimization.jpg: Unknown argument: show_log\nTraceback (most recent call last):\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\base_ocr.py\", line 139, in process\n    text, confidence, metadata = self._extract_text(file_path, **kwargs)\n                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\src\\local_ocr\\ocr_paddleocr.py\", line 143, in _extract_text\n    self._initialize_engine()\n  File \"C:\\Users\\henry\\Downloads\\OCR_Project\\Biotech_Model_Test\\src\\local_ocr\\ocr_paddleocr.py\", line 42, in _initialize_engine\n    self.ocr_engine = PaddleOCR(\n                      ^^^^^^^^^^\n  File \"C:\\Users\\henry\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\paddleocr\\_pipelines\\ocr.py\", line 163, in __init__\n    super().__init__(**base_params)\n  File \"C:\\Users\\henry\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\paddleocr\\_pipelines\\base.py\", line 63, in __init__\n    self._common_args = parse_common_args(\n                        ^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\henry\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\paddleocr\\_common_args.py\", line 43, in parse_common_args\n    raise ValueError(f\"Unknown argument: {name}\")\nValueError: Unknown argument: show_log\n"
+  ],
+  "model_name": "PaddleOCR",
+  "timestamp": "2025-11-05T14:09:31.383402",
+  "memory_usage_mb": 0.0,
+  "file_hash": "54b0e14f397636c75471bcfae8055a5f",
+  "chars_per_second": 0.0
+}

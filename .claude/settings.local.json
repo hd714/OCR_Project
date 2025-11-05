@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python boss_pipeline_enhanced.py:*)"
+      "Bash(python boss_pipeline_enhanced.py:*)",
+      "Bash(python -c:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []

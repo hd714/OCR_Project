@@ -1,0 +1,27 @@
+{
+  "text": "[DeepSeek-OCR Mock Extraction]\n                Document: 3102_phase2_dose_optimization.jpg\n                \n                This is a mock extraction for testing the pipeline integration.\n                In production, DeepSeek-OCR would extract:\n                - All visible text from the image\n                - Table structures preserved\n                - Mathematical formulas\n                - Multi-language content\n                \n                Mock metrics:\n                - Processing t...",
+  "full_text_length": 604,
+  "processing_time": 56.48708240000997,
+  "word_count": 51,
+  "char_count": 604,
+  "confidence": 0.95,
+  "metadata": {
+    "engine": "DeepSeek-OCR",
+    "model": "deepseek-ai/DeepSeek-OCR",
+    "gpu_used": true,
+    "8bit_quantization": false,
+    "image_size": [
+      6000,
+      3500
+    ],
+    "mock_mode": true,
+    "output_length": 604,
+    "processing_mode": "mock"
+  },
+  "errors": [],
+  "model_name": "DeepSeek-OCR",
+  "timestamp": "2025-11-05T14:18:15.644860",
+  "memory_usage_mb": 132.96135425567627,
+  "file_hash": "54b0e14f397636c75471bcfae8055a5f",
+  "chars_per_second": 10.692710161994372
+}
