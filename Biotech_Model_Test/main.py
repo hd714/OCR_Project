@@ -27,6 +27,8 @@ from base_ocr import BaseOCR, OCRResult, OCRBenchmarker
 from local_ocr.ocr_tesseract import TesseractOCR, TesseractAdvancedOCR
 from local_ocr.ocr_easyocr import EasyOCROCR, EasyOCRMultilingual
 from local_ocr.ocr_paddleocr import PaddleOCROCR, PaddleOCRAdvanced
+from local_ocr.ocr_deepseek import DeepSeekOCR, DeepSeekOCRAdvanced
+
 
 # Cloud OCR
 from cloud_ocr.ocr_azure import AzureOCR
@@ -82,6 +84,8 @@ class OCRPipeline:
             'easyocr_multilingual': EasyOCRMultilingual,
             'paddleocr': PaddleOCROCR,
             'paddleocr_advanced': PaddleOCRAdvanced,
+            'deepseek': DeepSeekOCR,
+            'deepseek_advanced': DeepSeekOCRAdvanced,
             
             # Cloud OCR
             'azure': AzureOCR,

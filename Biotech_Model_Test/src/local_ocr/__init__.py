@@ -2,6 +2,7 @@
 from .ocr_tesseract import TesseractOCR, TesseractAdvancedOCR
 from .ocr_easyocr import EasyOCROCR, EasyOCRMultilingual
 from .ocr_paddleocr import PaddleOCROCR, PaddleOCRAdvanced
+from .ocr_deepseek import DeepSeekOCR, DeepSeekOCRAdvanced  # <-- ADD THIS
 
 __all__ = [
     'TesseractOCR',
@@ -9,5 +10,7 @@ __all__ = [
     'EasyOCROCR',
     'EasyOCRMultilingual',
     'PaddleOCROCR',
-    'PaddleOCRAdvanced'
+    'PaddleOCRAdvanced',
+    'DeepSeekOCR',
+    'DeepSeekOCRAdvanced'
 ]

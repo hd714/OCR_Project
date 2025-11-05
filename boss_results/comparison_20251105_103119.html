@@ -1,0 +1,443 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR vs Text Parser Comparison - ICML25_P229_mosunetuzumab_FL.pdf</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 1rem;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 2rem;
+            font-size: 1.1rem;
+        }
+
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .method-section {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 1.5rem;
+            border: 2px solid #e9ecef;
+        }
+
+        .method-section h2 {
+            color: #495057;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .parser-section h2 {
+            color: #0066cc;
+        }
+
+        .ocr-section h2 {
+            color: #ff6b6b;
+        }
+
+        .method-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            border: 1px solid #dee2e6;
+            transition: transform 0.2s;
+        }
+
+        .method-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .method-name {
+            font-weight: bold;
+            color: #333;
+            font-size: 1.2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 0.5rem;
+            margin: 0.5rem 0;
+        }
+
+        .metric {
+            background: #f1f3f5;
+            padding: 0.5rem;
+            border-radius: 6px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .metric-label {
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        .metric-value {
+            font-weight: bold;
+            color: #333;
+        }
+
+        .text-preview {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 6px;
+            padding: 1rem;
+            margin-top: 1rem;
+            max-height: 200px;
+            overflow-y: auto;
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 0.85rem;
+            line-height: 1.5;
+            white-space: pre-wrap;
+            word-break: break-word;
+        }
+
+        .similarity-matrix {
+            margin: 2rem 0;
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .similarity-matrix h2 {
+            color: #333;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .similarity-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+
+        .similarity-card {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 8px;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .similarity-comparison {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+
+        .similarity-score {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .high-similarity {
+            color: #28a745;
+        }
+
+        .medium-similarity {
+            color: #ffc107;
+        }
+
+        .low-similarity {
+            color: #dc3545;
+        }
+
+        .summary {
+            background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-top: 2rem;
+            text-align: center;
+        }
+
+        .summary h2 {
+            color: #333;
+            margin-bottom: 1rem;
+        }
+
+        .best-method {
+            background: white;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-top: 1rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .error {
+            background: #fee;
+            color: #c00;
+            padding: 0.5rem;
+            border-radius: 4px;
+            margin-top: 0.5rem;
+        }
+
+        .success-badge {
+            background: #d4edda;
+            color: #155724;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            display: inline-block;
+        }
+
+        .warning-badge {
+            background: #fff3cd;
+            color: #856404;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            display: inline-block;
+        }
+
+        @media (max-width: 768px) {
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 OCR vs Text Parser Comparison</h1>
+        <p class="subtitle">
+            <strong>File:</strong> ICML25_P229_mosunetuzumab_FL.pdf |
+            <strong>Date:</strong> 2025-11-05 10:31:19
+        </p>
+
+        <div class="comparison-grid">
+            <!-- Text Parsers Section -->
+            <div class="method-section parser-section">
+                <h2>📄 Text Parsers (Direct Extraction)</h2>
+                
+            <div class="method-card">
+                <div class="method-name">PyPDF2 <span class="success-badge">✅ Success</span></div>
+                <div class="metrics">
+                    <div class="metric">
+                        <span class="metric-label">Words:</span>
+                        <span class="metric-value">2,716</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Characters:</span>
+                        <span class="metric-value">18,508</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Time:</span>
+                        <span class="metric-value">3.42s</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Confidence:</span>
+                        <span class="metric-value">100.0%</span>
+                    </div>
+                </div>
+                
+                <div class="text-preview">--- Page 1 ---
+Follicular Lymphoma
+https://doi.org/10.1002/hon.70094_229229Poster number
+Presented at the 2025 International Conference on Malignant Lymphoma (ICML) Annual Meeting | June 17 –21, 2025A multicenter, open -label Phase Ib/II study (NCT04246086) was 
+conducted to assess Mosun+Len induction with mosunetuzumab SC 
+maintenance in patients with FL
+•Patients with newly diagnosed CD20+ FL Grade 1 –3a who required systemic therapy 
+per Groupe d'Etude des Lymphomes Folliculaires (GELF) crite...</div>
+            </div>
+            
+            <div class="method-card">
+                <div class="method-name">PDFPlumber <span class="success-badge">✅ Success</span></div>
+                <div class="metrics">
+                    <div class="metric">
+                        <span class="metric-label">Words:</span>
+                        <span class="metric-value">6,611</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Characters:</span>
+                        <span class="metric-value">80,018</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Time:</span>
+                        <span class="metric-value">6.89s</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Confidence:</span>
+                        <span class="metric-value">100.0%</span>
+                    </div>
+                </div>
+                
+                <div class="text-preview">--- Page 1 ---
+229
+Summary
+Safety and efficacy of mosunetuzumab
+CO41942 is a Phase Ib/II study
+(NCT04246086) assessing
+subcutaneous maintenance following
+As of September 23, 2024,
+mosunetuzumab plus lenalidomide
+a total of 40 patients received
+(Mosun+Len) induction and subsequent
+Mosun+Len induction therapy, and
+mosunetuzumab plus lenalidomide induction
+subcutaneous (SC) mosunetuzumab
+16 patients proceeded to optional
+maintenance in patients with high tumor
+mosunetuzumab maintenance
+burden previ...</div>
+            </div>
+            
+            </div>
+
+            <!-- OCR Engines Section -->
+            <div class="method-section ocr-section">
+                <h2>👁️ OCR Engines (Image-based)</h2>
+                
+            <div class="method-card">
+                <div class="method-name">Tesseract <span class="success-badge">✅ Success</span></div>
+                <div class="metrics">
+                    <div class="metric">
+                        <span class="metric-label">Words:</span>
+                        <span class="metric-value">1,779</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Characters:</span>
+                        <span class="metric-value">10,284</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Time:</span>
+                        <span class="metric-value">21.75s</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Confidence:</span>
+                        <span class="metric-value">81.1%</span>
+                    </div>
+                </div>
+                
+                <div class="text-preview">Summary
+CO041942 is a Phase Ib/II study
+(NCT04246086) assessing As of September 23. 2024
+mosunetuzumab plus lenalidomide a total of 10 atients feceived
+(Mosun+Len) induction and subsequent Mosun+Len induction therapy. and
+subcutaneous (SC) mosunetuzumab 46 patients proceeded to Sptional
+maintenance in patients with high tumor tos net P mab vaintenance
+: Uu uUZU l
+burden previously untreated
+follicular lymphoma (FL)
+Mosun+Len induction with
+Findings highlight the promise of this ,
+chemathera g fr...</div>
+            </div>
+            
+            <div class="method-card">
+                <div class="method-name">EasyOCR <span class="success-badge">✅ Success</span></div>
+                <div class="metrics">
+                    <div class="metric">
+                        <span class="metric-label">Words:</span>
+                        <span class="metric-value">2,509</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Characters:</span>
+                        <span class="metric-value">17,646</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Time:</span>
+                        <span class="metric-value">128.85s</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Confidence:</span>
+                        <span class="metric-value">78.0%</span>
+                    </div>
+                </div>
+                
+                <div class="text-preview">229 Summary Safety and efficacy of mosunetuzumab C041942 is a Phase IblIl study (NCT04246086) assessing As of September 23, 2024 , subcutaneous maintenance following (Mossuneenzundabciousalredalidoreieent a total of 40 patients received subcutaneous (SC) mosunetuzumab MosuntLen induction therapy, and mosunetuzumab plus lenalidomide induction maintenance in patients with high tumor 16 patients proceeded to optional burden previously untreated mosunetuzumab maintenance therapy in previously untrea...</div>
+            </div>
+            
+            </div>
+        </div>
+
+        <!-- Similarity Matrix -->
+        <div class="similarity-matrix">
+            <h2>🎯 Similarity Analysis</h2>
+            <div class="similarity-grid">
+                
+            <div class="similarity-card">
+                <div class="similarity-comparison">PyPDF2 vs Tesseract</div>
+                <div class="similarity-score low-similarity">10.6%</div>
+            </div>
+            
+            <div class="similarity-card">
+                <div class="similarity-comparison">PyPDF2 vs EasyOCR</div>
+                <div class="similarity-score low-similarity">8.5%</div>
+            </div>
+            
+            <div class="similarity-card">
+                <div class="similarity-comparison">PDFPlumber vs Tesseract</div>
+                <div class="similarity-score low-similarity">37.2%</div>
+            </div>
+            
+            <div class="similarity-card">
+                <div class="similarity-comparison">PDFPlumber vs EasyOCR</div>
+                <div class="similarity-score medium-similarity">65.6%</div>
+            </div>
+            
+            </div>
+        </div>
+
+        <!-- Summary and Recommendations -->
+        <div class="summary">
+            <h2>📈 Summary & Recommendations</h2>
+            
+        <div class="best-method">
+            <h3>🏆 Best Methods</h3>
+            <p><strong>Most Text Extracted:</strong> PDFPlumber (6,611 words)</p>
+            <p><strong>Fastest Processing:</strong> PyPDF2 (3.421 seconds)</p>
+
+            <h3 style="margin-top: 1rem;">📊 Analysis</h3>
+            <p><strong>Text Parsers Average:</strong> 4664 words</p>
+            <p><strong>OCR Engines Average:</strong> 2144 words</p>
+
+            <h3 style="margin-top: 1rem;">💡 Recommendations</h3>
+        <p>✅ <strong>Use Text Parsers:</strong> This PDF contains native text. Text parsers are extracting significantly more content.</p></div>
+        </div>
+    </div>
+</body>
+</html>
