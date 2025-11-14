@@ -1,0 +1,158 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR Comparison - clinical_trial_test.png</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 2rem;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 2rem;
+        }
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2rem;
+        }
+        .result-card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 1.5rem;
+            border: 2px solid #e9ecef;
+        }
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            margin: 1rem 0;
+        }
+        .metric {
+            background: white;
+            padding: 0.75rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .text-preview {
+            background: white;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            padding: 1rem;
+            max-height: 300px;
+            overflow-y: auto;
+            font-family: monospace;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 OCR Comparison Results</h1>
+        <p style="text-align: center; color: #666;">
+            File: clinical_trial_test.png | Date: 2025-11-07 15:52:35
+        </p>
+        <div class="results-grid">
+
+            <div class="result-card">
+                <h2>Tesseract</h2>
+                <div class="metrics">
+                    <div class="metric">
+                        <strong>Words</strong><br>30
+                    </div>
+                    <div class="metric">
+                        <strong>Characters</strong><br>236
+                    </div>
+                    <div class="metric">
+                        <strong>Time</strong><br>1.28s
+                    </div>
+                    <div class="metric">
+                        <strong>Confidence</strong><br>92.2%
+                    </div>
+                </div>
+                <h3>Extracted Text</h3>
+                <div class="text-preview">CLINICAL TRIAL NCT—2024—-001
+
+Drug: HUMIRA (adalimumab)
+
+Indication: Rheumatoid Arthritis
+
+Primary Endpoint: ACR20 Response at Week 24
+Results: 75% achieved ACR20 (p<0.001)
+Secondary: 45% achieved ACRSO
+
+Adverse Events: Mild to Moderate...</div>
+            </div>
+
+            <div class="result-card">
+                <h2>EasyOCR</h2>
+                <div class="metrics">
+                    <div class="metric">
+                        <strong>Words</strong><br>30
+                    </div>
+                    <div class="metric">
+                        <strong>Characters</strong><br>231
+                    </div>
+                    <div class="metric">
+                        <strong>Time</strong><br>106.59s
+                    </div>
+                    <div class="metric">
+                        <strong>Confidence</strong><br>78.1%
+                    </div>
+                </div>
+                <h3>Extracted Text</h3>
+                <div class="text-preview">CLINICAL TRIAL NCT-2024-001 Drug: HUMIRA (adalimumab) Indication: Rheumatoid Arthritis Primary Endpoint: ACR2O Response at Week 24 Results: 75% achieved ACR2O (p<0.001) Secondary: 45% achieved ACRSO Adverse Events: Mild to Moderate...</div>
+            </div>
+
+            <div class="result-card">
+                <h2>DeepSeek</h2>
+                <div class="metrics">
+                    <div class="metric">
+                        <strong>Words</strong><br>51
+                    </div>
+                    <div class="metric">
+                        <strong>Characters</strong><br>594
+                    </div>
+                    <div class="metric">
+                        <strong>Time</strong><br>77.63s
+                    </div>
+                    <div class="metric">
+                        <strong>Confidence</strong><br>95.0%
+                    </div>
+                </div>
+                <h3>Extracted Text</h3>
+                <div class="text-preview">[DeepSeek-OCR Mock Extraction]
+                Document: clinical_trial_test.png
+                
+                This is a mock extraction for testing the pipeline integration.
+                In production, DeepSeek-OCR would extract:
+                - All visible text from the image
+                - Table structures preserved
+                - Mathematical formulas
+                - Multi-language content
+                
+                Mock metrics:
+                - Processing time: 0.5s
+                - Confidence: High
+                - Image size: (1400, 1000)
+                ...</div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
