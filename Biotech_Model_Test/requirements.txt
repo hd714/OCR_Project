@@ -21,6 +21,29 @@ bitsandbytes>=0.41.0  # For 8-bit quantization
 accelerate>=0.25.0  # For model loading optimization
 sentencepiece>=0.1.99  # For some tokenizers
 
+# New 5-Star OCR Models
+# TrOCR - Microsoft's Transformer OCR
+# (Automatically included with transformers)
+
+# LayoutLMv3 - Document Understanding
+# (Automatically included with transformers)
+
+# Nougat - Academic Document OCR
+nougat-ocr>=0.1.0  # Optional: pip package for Nougat
+# Alternative: Use transformers for Nougat models
+
+# GOT-OCR2.0 - General OCR Theory
+# (Uses transformers with trust_remote_code=True)
+# No additional package needed
+
+# Surya OCR - Multilingual Line-Level OCR
+surya-ocr>=0.4.0  # Optional: dedicated Surya package
+
+# Additional dependencies for new models
+pdf2image>=1.17.0  # For PDF processing with Nougat
+pytesseract>=0.3.10  # Fallback OCR for LayoutLMv3
+flash-attn>=2.0.0  # Optional: For faster attention (GPU only)
+
 # OpenAI API (for GPT-4V)
 openai>=1.0.0
 
